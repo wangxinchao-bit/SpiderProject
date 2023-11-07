@@ -40,8 +40,8 @@ class bzhanSpider(object):
         while not self.queue.empty():
             time.sleep(random.randrange(0,4))
             url  = self.queue.get()
-            proxy = requests.get("http://127.0.0.1:5010/get/").json()["proxy"]
-            proxies = {"http": "http://{}".format(proxy)}
+            # proxy = requests.get("http://127.0.0.1:5010/get/").json()["proxy"]
+            # proxies = {"http": "http://{}".format(proxy)}
 
             head = {'User-Agent': self.uas,
                     'X-Requested-With': 'XMLHttpRequest',
@@ -53,7 +53,7 @@ class bzhanSpider(object):
                     'Referer': url}
             mid = url.replace('https://m.bilibili.com/space/', '')
             try:
-                html = requests.get(url, headers=head, cookies=self.cookie,proxies=proxies, timeout=10).text
+                html = requests.get(url, headers=head, cookies=self.cookie,timeout=10).text
                 formats = re.findall(r"window.__INITIAL_STATE__=(.*?);\(function\(\)", html)
                 try:
                     data = json.loads(formats[0])["space"]

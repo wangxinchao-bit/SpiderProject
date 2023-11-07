@@ -1,0 +1,2032 @@
+{
+    "686ea820389dfee3a19b36964cf9212e": {
+        "username": "\u77e5\u4e4e\u7535\u5f71",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-dian-ying-72",
+        "url_token": "zhi-hu-dian-ying-72",
+        "follower_count": 8046282,
+        "articles_count": 244,
+        "answer_count": 38,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "85724f4099df3bbe69b629eb969367e4": {
+        "username": "\u77e5\u4e4e\u4eb2\u5b50",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-qin-zi",
+        "url_token": "zhi-hu-qin-zi",
+        "follower_count": 2230983,
+        "articles_count": 742,
+        "answer_count": 15,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "818347236c00169b8904697c8169854b": {
+        "username": "\u77e5\u4e4e\u79d1\u6280",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-ke-ji-13",
+        "url_token": "zhi-ke-ji-13",
+        "follower_count": 6330348,
+        "articles_count": 163,
+        "answer_count": 37,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "462c79c7d3e381705d35ebc135d256fc": {
+        "username": "\u82d4\u6267",
+        "url": "https://www.zhihu.com/api/v4/people/thuquant",
+        "url_token": "thuquant",
+        "follower_count": 112930,
+        "articles_count": 97,
+        "answer_count": 387,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "36f69162230003d316d0b8a6d8da20ba": {
+        "username": "\u91cf\u5b50\u4f4d",
+        "url": "https://www.zhihu.com/api/v4/people/liang-zi-wei-48",
+        "url_token": "liang-zi-wei-48",
+        "follower_count": 486951,
+        "articles_count": 8295,
+        "answer_count": 606,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "3d198a56310c02c4a83efb9f4a4c027e": {
+        "username": "\u77e5\u4e4e\u5c0f\u7ba1\u5bb6",
+        "url": "https://www.zhihu.com/api/v4/people/zhihuadmin",
+        "url_token": "zhihuadmin",
+        "follower_count": 1099846,
+        "articles_count": 567,
+        "answer_count": 84,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "38487a5e5ddfac45c839056956b9f635": {
+        "username": "Python\u91d1\u878d\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/tkfy920",
+        "url_token": "tkfy920",
+        "follower_count": 30975,
+        "articles_count": 103,
+        "answer_count": 110,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "223c3f3147d3f2c09a1245898c0c95aa": {
+        "username": "\u8463\u53ef\u4eba",
+        "url": "https://www.zhihu.com/api/v4/people/dongkeren",
+        "url_token": "dongkeren",
+        "follower_count": 133451,
+        "articles_count": 13,
+        "answer_count": 160,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1041f7dfd7e8658c0b7202093472a0a4": {
+        "username": "\u963f\u8d22",
+        "url": "https://www.zhihu.com/api/v4/people/lunafrost",
+        "url_token": "lunafrost",
+        "follower_count": 21014,
+        "articles_count": 11,
+        "answer_count": 3357,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6569a87c3ffc5882bcca37faf89ab61b": {
+        "username": "\u91cf\u5316\u4ea4\u6613\u524d\u884c\u8005",
+        "url": "https://www.zhihu.com/api/v4/people/chen-mo-zhong-de-da-xian",
+        "url_token": "chen-mo-zhong-de-da-xian",
+        "follower_count": 33266,
+        "articles_count": 86,
+        "answer_count": 334,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "8fdc67b61ebffe84b37a605217737189": {
+        "username": "BigQuant",
+        "url": "https://www.zhihu.com/api/v4/people/bigquant",
+        "url_token": "bigquant",
+        "follower_count": 86430,
+        "articles_count": 208,
+        "answer_count": 736,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d64dea25710ea4bb45e3b592b400b6ae": {
+        "username": "\u77e5\u4e4e\u597d\u7269\u63a8\u8350",
+        "url": "https://www.zhihu.com/api/v4/people/zhihu-haowutuijian",
+        "url_token": "zhihu-haowutuijian",
+        "follower_count": 1181536,
+        "articles_count": 206,
+        "answer_count": 25,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "008b34c38d2f61f02cf92993316626e9": {
+        "username": "\u7f51\u53d4",
+        "url": "https://www.zhihu.com/api/v4/people/wang-shu-8-34",
+        "url_token": "wang-shu-8-34",
+        "follower_count": 560129,
+        "articles_count": 699,
+        "answer_count": 507,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b058876232f351c7056b0146c1c18e58": {
+        "username": "\u6b63\u5c06\u963f\u5174",
+        "url": "https://www.zhihu.com/api/v4/people/qhacking",
+        "url_token": "qhacking",
+        "follower_count": 63473,
+        "articles_count": 21,
+        "answer_count": 173,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "921602cfb6e599ef57e8153a9b1842e0": {
+        "username": "babyquant",
+        "url": "https://www.zhihu.com/api/v4/people/babyquant",
+        "url_token": "babyquant",
+        "follower_count": 113401,
+        "articles_count": 763,
+        "answer_count": 4646,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "3538c663bcd2356726fa2995c855e24e": {
+        "username": "\u7528Python\u7684\u4ea4\u6613\u5458",
+        "url": "https://www.zhihu.com/api/v4/people/traderusingpython",
+        "url_token": "traderusingpython",
+        "follower_count": 105514,
+        "articles_count": 191,
+        "answer_count": 130,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9507d6916f3e41287a41427567674fea": {
+        "username": "\u90a2\u4e0d\u884c",
+        "url": "https://www.zhihu.com/api/v4/people/xing_buxing",
+        "url_token": "xing_buxing",
+        "follower_count": 21730,
+        "articles_count": 126,
+        "answer_count": 130,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "65c35f508b1bd677362f91e2313b5771": {
+        "username": "\u77f3\u5ddd",
+        "url": "https://www.zhihu.com/api/v4/people/mitcshi",
+        "url_token": "mitcshi",
+        "follower_count": 132616,
+        "articles_count": 190,
+        "answer_count": 87,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9f175f498c4656412e8962af9bd8771e": {
+        "username": "\u805a\u5bbd\u91cf\u5316\u5185\u63a8",
+        "url": "https://www.zhihu.com/api/v4/people/ju-kuan-liang-hua-nei-tui",
+        "url_token": "ju-kuan-liang-hua-nei-tui",
+        "follower_count": 285,
+        "articles_count": 9,
+        "answer_count": 0,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "5fcd0638adc2143b49d28bbbfbe6d5a1": {
+        "username": "Quant\u6700\u7231",
+        "url": "https://www.zhihu.com/api/v4/people/zxlrs",
+        "url_token": "zxlrs",
+        "follower_count": 54327,
+        "articles_count": 455,
+        "answer_count": 36,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "d4a74f44e91854592356406a37a5f090": {
+        "username": "Edward.Fu",
+        "url": "https://www.zhihu.com/api/v4/people/edward-fu-91",
+        "url_token": "edward-fu-91",
+        "follower_count": 32740,
+        "articles_count": 66,
+        "answer_count": 81,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "2077ae223b1427e72ea0825790cada2a": {
+        "username": "Charmve",
+        "url": "https://www.zhihu.com/api/v4/people/MaiweiE-com",
+        "url_token": "MaiweiE-com",
+        "follower_count": 11499,
+        "articles_count": 104,
+        "answer_count": 203,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d30fbccf05322b0a18f52d80beb3cd45": {
+        "username": "\u80a5\u80a5\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/20-1-8-85",
+        "url_token": "20-1-8-85",
+        "follower_count": 379,
+        "articles_count": 10,
+        "answer_count": 12,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "4510b0036de1eda61cc621f53ce1e57c": {
+        "username": "Fitz Hoo",
+        "url": "https://www.zhihu.com/api/v4/people/gu-feng-5-32",
+        "url_token": "gu-feng-5-32",
+        "follower_count": 3318,
+        "articles_count": 25,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b98f61fe56852f7346261d1a6933a8f4": {
+        "username": "ForTheHeart",
+        "url": "https://www.zhihu.com/api/v4/people/yi-nian-zhi-zhao-22",
+        "url_token": "yi-nian-zhi-zhao-22",
+        "follower_count": 2179,
+        "articles_count": 29,
+        "answer_count": 25,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "baadcf67af44a931b42cf22b57f2c492": {
+        "username": "CuriousBull",
+        "url": "https://www.zhihu.com/api/v4/people/hu-chen-69-57",
+        "url_token": "hu-chen-69-57",
+        "follower_count": 7335,
+        "articles_count": 43,
+        "answer_count": 35,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b279816c81ed10e416750b65aaaad31c": {
+        "username": "\u642c\u7816\u5c0f\u6d6a\u54e5",
+        "url": "https://www.zhihu.com/api/v4/people/zhuang-gui-jun-50",
+        "url_token": "zhuang-gui-jun-50",
+        "follower_count": 21810,
+        "articles_count": 1965,
+        "answer_count": 66,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "0d9d81f42c3fae073ad54b8e25f5c198": {
+        "username": "\u4f59\u5929",
+        "url": "https://www.zhihu.com/api/v4/people/yutiansut",
+        "url_token": "yutiansut",
+        "follower_count": 3821,
+        "articles_count": 37,
+        "answer_count": 17,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1a9c21d98b02facf1756274b177d1724": {
+        "username": "\u8463\u68a6\u4e91",
+        "url": "https://www.zhihu.com/api/v4/people/andydong1209",
+        "url_token": "andydong1209",
+        "follower_count": 576,
+        "articles_count": 55,
+        "answer_count": 2,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "2803c329ab79d147d8ce96f8f90f8d4d": {
+        "username": "\u5929\u8f6f\u79d1\u6280",
+        "url": "https://www.zhihu.com/api/v4/people/84-27-66-25-58",
+        "url_token": "84-27-66-25-58",
+        "follower_count": 82,
+        "articles_count": 46,
+        "answer_count": 48,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "37ee10484a7e91fd233c770884678800": {
+        "username": "\u94b1\u591a\u591a",
+        "url": "https://www.zhihu.com/api/v4/people/smub",
+        "url_token": "smub",
+        "follower_count": 1542,
+        "articles_count": 89,
+        "answer_count": 562,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b7419b43c883fa9008993674bbe1c231": {
+        "username": "\u4e00\u5e74\u6253\u5361\u767e\u573a\u8def\u6f14",
+        "url": "https://www.zhihu.com/api/v4/people/a-lei-18-69",
+        "url_token": "a-lei-18-69",
+        "follower_count": 840,
+        "articles_count": 98,
+        "answer_count": 93,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "d9a2524f81a36f7963b06d6c602a2e28": {
+        "username": "\u5c0f\u9f99\u5973",
+        "url": "https://www.zhihu.com/api/v4/people/ni-na-46-28",
+        "url_token": "ni-na-46-28",
+        "follower_count": 2010,
+        "articles_count": 62,
+        "answer_count": 240,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "5ff91253e2adf884e3df73d9f22d2d78": {
+        "username": "\u60f3\u901a\u4e86\u5c31\u597d",
+        "url": "https://www.zhihu.com/api/v4/people/lu-song-13-83",
+        "url_token": "lu-song-13-83",
+        "follower_count": 537,
+        "articles_count": 19,
+        "answer_count": 28,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e32096ed05966253b1a16160c5ca1585": {
+        "username": "\u674e\u72d7\u55e8",
+        "url": "https://www.zhihu.com/api/v4/people/lijianhui.net",
+        "url_token": "lijianhui.net",
+        "follower_count": 116440,
+        "articles_count": 50,
+        "answer_count": 251,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "50e52c29a63fa9723d683b250d9c6519": {
+        "username": "Heinrich",
+        "url": "https://www.zhihu.com/api/v4/people/Erdnussoelbearbeiter",
+        "url_token": "Erdnussoelbearbeiter",
+        "follower_count": 174015,
+        "articles_count": 5,
+        "answer_count": 72,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1f6b12d899fa77750bc3b0b061812367": {
+        "username": "\u5c0f\u6811\u82d7",
+        "url": "https://www.zhihu.com/api/v4/people/a-fei-de-xiao-hu-die-75",
+        "url_token": "a-fei-de-xiao-hu-die-75",
+        "follower_count": 523,
+        "articles_count": 0,
+        "answer_count": 424,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "53d4f8febbfcaf6ba42c8dbe53d7f51f": {
+        "username": "\u6768\u535a\u7406",
+        "url": "https://www.zhihu.com/api/v4/people/yangboli",
+        "url_token": "yangboli",
+        "follower_count": 20381,
+        "articles_count": 6,
+        "answer_count": 18,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c909c2c131edb6132f925f0f408ca5d1": {
+        "username": "\u6295\u884c\u5c0f\u5175",
+        "url": "https://www.zhihu.com/api/v4/people/ibxb",
+        "url_token": "ibxb",
+        "follower_count": 76694,
+        "articles_count": 2324,
+        "answer_count": 471,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "ade8ee94c48aaee47b089e7d3b240696": {
+        "username": "\u91ce\u4e09\u6ce2",
+        "url": "https://www.zhihu.com/api/v4/people/ye-san-bo",
+        "url_token": "ye-san-bo",
+        "follower_count": 9771,
+        "articles_count": 22,
+        "answer_count": 78,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "5ac40ffd846deb4740d83a56551a4cd5": {
+        "username": "\u5929\u542f\u5927\u70c1\u54e5",
+        "url": "https://www.zhihu.com/api/v4/people/lis-10-69",
+        "url_token": "lis-10-69",
+        "follower_count": 65787,
+        "articles_count": 75,
+        "answer_count": 418,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6278f3de76263033f11ca4913e91da76": {
+        "username": "Cerulean",
+        "url": "https://www.zhihu.com/api/v4/people/ceruleanw",
+        "url_token": "ceruleanw",
+        "follower_count": 15479,
+        "articles_count": 26,
+        "answer_count": 198,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "8d2e01d7c57f49aab5547bfd3fc5260f": {
+        "username": "\u642c\u5c71",
+        "url": "https://www.zhihu.com/api/v4/people/pan-xiao-xiong-31",
+        "url_token": "pan-xiao-xiong-31",
+        "follower_count": 7817,
+        "articles_count": 0,
+        "answer_count": 42,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "bb720843a3cf23876cce598f329f1869": {
+        "username": "Undefined",
+        "url": "https://www.zhihu.com/api/v4/people/undefined-81-33",
+        "url_token": "undefined-81-33",
+        "follower_count": 8803,
+        "articles_count": 51,
+        "answer_count": 55,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "c180200a8af25f40627fe9b12abe946c": {
+        "username": "\u79c1\u52df\u7504\u9009\u5bb6",
+        "url": "https://www.zhihu.com/api/v4/people/huang-tai-de-47",
+        "url_token": "huang-tai-de-47",
+        "follower_count": 940,
+        "articles_count": 76,
+        "answer_count": 80,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "4184081605ee7f1b977e445fe9c2c373": {
+        "username": "Li Changhao",
+        "url": "https://www.zhihu.com/api/v4/people/li-chang-hao-29-22",
+        "url_token": "li-chang-hao-29-22",
+        "follower_count": 5637,
+        "articles_count": 36,
+        "answer_count": 135,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "0aca0a01421875e0d5ce572c0468eee7": {
+        "username": "\u7231\u8005\u4e4b\u8d3b",
+        "url": "https://www.zhihu.com/api/v4/people/zhang-rui-5-25-62",
+        "url_token": "zhang-rui-5-25-62",
+        "follower_count": 2754,
+        "articles_count": 76,
+        "answer_count": 16,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b22a5cef6751945f8255b1fee1d110cb": {
+        "username": "Brian Wu",
+        "url": "https://www.zhihu.com/api/v4/people/wwqa-qu",
+        "url_token": "wwqa-qu",
+        "follower_count": 671,
+        "articles_count": 2,
+        "answer_count": 6,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "0f59cbbf3ad828d9b87712d9ef3a0814": {
+        "username": "\u5c0f\u9c7c\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/hh-li-31",
+        "url_token": "hh-li-31",
+        "follower_count": 4829,
+        "articles_count": 52,
+        "answer_count": 110,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6527aaa30e6f5c0955d88a509abafc11": {
+        "username": "Awing Xu",
+        "url": "https://www.zhihu.com/api/v4/people/awing-xu",
+        "url_token": "awing-xu",
+        "follower_count": 25520,
+        "articles_count": 0,
+        "answer_count": 240,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6d9eb90ace31e76ba992283ef1b7379c": {
+        "username": "LIGHT",
+        "url": "https://www.zhihu.com/api/v4/people/berserker408",
+        "url_token": "berserker408",
+        "follower_count": 10179,
+        "articles_count": 26,
+        "answer_count": 50,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e5fd48b3bc6f02f175699421f10a8e23": {
+        "username": "\u6c6asir\u5728\u7ebf",
+        "url": "https://www.zhihu.com/api/v4/people/bing-bing-ge-ge-72",
+        "url_token": "bing-bing-ge-ge-72",
+        "follower_count": 2430,
+        "articles_count": 84,
+        "answer_count": 48,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "a2a9fe402ffdce9ee1d1d219c881db2d": {
+        "username": "Hugging Face",
+        "url": "https://www.zhihu.com/api/v4/people/huggingface",
+        "url_token": "huggingface",
+        "follower_count": 26571,
+        "articles_count": 162,
+        "answer_count": 0,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "8380183d36455fc8f0d414df32ebe7b6": {
+        "username": "\u5de8\u786c\u65b0\u661f",
+        "url": "https://www.zhihu.com/api/v4/people/zhao-ri-tian-49-19-42",
+        "url_token": "zhao-ri-tian-49-19-42",
+        "follower_count": 8825,
+        "articles_count": 4,
+        "answer_count": 2409,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c14a27121520e1f3f73e0b0fb3059914": {
+        "username": "\u806a\u660e\u6295\u8d44\u8005",
+        "url": "https://www.zhihu.com/api/v4/people/cong-ming-tou-zi-zhe",
+        "url_token": "cong-ming-tou-zi-zhe",
+        "follower_count": 54951,
+        "articles_count": 3610,
+        "answer_count": 618,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "1bd764f67d40fb6677426bbdcec1b3d6": {
+        "username": "\u897f\u5317\u5730\u533a\u552f\u4e00\u7684\u738b\u51e0",
+        "url": "https://www.zhihu.com/api/v4/people/xi-bei-di-qu-wei-yi-de-wang-ji",
+        "url_token": "xi-bei-di-qu-wei-yi-de-wang-ji",
+        "follower_count": 772,
+        "articles_count": 19,
+        "answer_count": 16,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "3e734ada52f23d3d45dbbd0cdb07e239": {
+        "username": "Ray",
+        "url": "https://www.zhihu.com/api/v4/people/Ray-zhihu-pro",
+        "url_token": "Ray-zhihu-pro",
+        "follower_count": 3966,
+        "articles_count": 32,
+        "answer_count": 41,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f8655ebddc58d3d6ae1c7eb31fcd7bc9": {
+        "username": "Vivian Zhou",
+        "url": "https://www.zhihu.com/api/v4/people/sha-du-xiang-dong-17",
+        "url_token": "sha-du-xiang-dong-17",
+        "follower_count": 1870,
+        "articles_count": 10,
+        "answer_count": 59,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "5b40d9f8d5a1684bed9a47f1ad94d5ae": {
+        "username": "felix",
+        "url": "https://www.zhihu.com/api/v4/people/felix_ye",
+        "url_token": "felix_ye",
+        "follower_count": 5819,
+        "articles_count": 10,
+        "answer_count": 45,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "27b8390344b45c7289032f3218ced120": {
+        "username": "\u5fae\u8f6f\u4e9a\u6d32\u7814\u7a76\u9662",
+        "url": "https://www.zhihu.com/api/v4/people/wei-ruan-ya-zhou-yan-jiu-yuan",
+        "url_token": "wei-ruan-ya-zhou-yan-jiu-yuan",
+        "follower_count": 237402,
+        "articles_count": 376,
+        "answer_count": 418,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "50c780481b74c803c1c4f115eefa093e": {
+        "username": "Kulolo",
+        "url": "https://www.zhihu.com/api/v4/people/yang-en-yuan-89",
+        "url_token": "yang-en-yuan-89",
+        "follower_count": 2003,
+        "articles_count": 4,
+        "answer_count": 24,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "db3f31136588980b465034a08aa6ae3d": {
+        "username": "vitu",
+        "url": "https://www.zhihu.com/api/v4/people/vitutech",
+        "url_token": "vitutech",
+        "follower_count": 16056,
+        "articles_count": 25,
+        "answer_count": 528,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "ef898e75eaa81f39693c2637408afc88": {
+        "username": "krenx",
+        "url": "https://www.zhihu.com/api/v4/people/krenx",
+        "url_token": "krenx",
+        "follower_count": 7291,
+        "articles_count": 164,
+        "answer_count": 130,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "4b874959334bb147251aeca5f1bf12e1": {
+        "username": "\u859b\u6606Kelvin",
+        "url": "https://www.zhihu.com/api/v4/people/kelvin-xue-60",
+        "url_token": "kelvin-xue-60",
+        "follower_count": 4887,
+        "articles_count": 0,
+        "answer_count": 64,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d5fbf1245ac86f6a72596d6fd75ae78b": {
+        "username": "\u91cf\u5316\u6295\u8d44\u4e16\u754c",
+        "url": "https://www.zhihu.com/api/v4/people/quant_world",
+        "url_token": "quant_world",
+        "follower_count": 522,
+        "articles_count": 11,
+        "answer_count": 7,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "bfb21e5af1e19f4783dd18b0b5928f8c": {
+        "username": "\u9ebb\u8fa3\u9f99\u867e\u4ec1",
+        "url": "https://www.zhihu.com/api/v4/people/bing-hong-cha-84-71",
+        "url_token": "bing-hong-cha-84-71",
+        "follower_count": 885,
+        "articles_count": 33,
+        "answer_count": 93,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "41d18262425e86d79b00be26e9070ddc": {
+        "username": "\u6050\u9f99\u53d4\u53d4",
+        "url": "https://www.zhihu.com/api/v4/people/nan-fang-yao-yao-ling",
+        "url_token": "nan-fang-yao-yao-ling",
+        "follower_count": 5176,
+        "articles_count": 8,
+        "answer_count": 274,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "714d12c85f233ab2dc86f37ba9380bd1": {
+        "username": "\u7a7a\u4e0d\u5f02\u8272",
+        "url": "https://www.zhihu.com/api/v4/people/wu-ming-94-15-72",
+        "url_token": "wu-ming-94-15-72",
+        "follower_count": 703,
+        "articles_count": 3,
+        "answer_count": 10,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1979b6f880b2b21c4d39138c0d1fb5f3": {
+        "username": "\u65e0\u5fcc",
+        "url": "https://www.zhihu.com/api/v4/people/thucuhkwuji",
+        "url_token": "thucuhkwuji",
+        "follower_count": 7249,
+        "articles_count": 100,
+        "answer_count": 175,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "5027e027196fe8dd3b6ee2c862fad7ac": {
+        "username": "\u5929\u52e4\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/tian-qin-liang-hua",
+        "url_token": "tian-qin-liang-hua",
+        "follower_count": 2844,
+        "articles_count": 38,
+        "answer_count": 18,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "9416c023b139b27bdd3ed51941bbdd39": {
+        "username": "\u91cf\u5316-\u5357\u5c71",
+        "url": "https://www.zhihu.com/api/v4/people/bu-dong-ru-shan-51-11",
+        "url_token": "bu-dong-ru-shan-51-11",
+        "follower_count": 586,
+        "articles_count": 1,
+        "answer_count": 60,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c04ccdeac64d80da85c2fbe0bf094a4e": {
+        "username": "\u534e\u601d\u8fdc",
+        "url": "https://www.zhihu.com/api/v4/people/hua-si-yuan",
+        "url_token": "hua-si-yuan",
+        "follower_count": 709,
+        "articles_count": 16,
+        "answer_count": 24,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1751d571cd57282c0451bc022ce7c1ce": {
+        "username": "GitHub Daily",
+        "url": "https://www.zhihu.com/api/v4/people/githubdaily",
+        "url_token": "githubdaily",
+        "follower_count": 109214,
+        "articles_count": 290,
+        "answer_count": 77,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d8f1cc7547119d7c25ea9cebe4484038": {
+        "username": "Steven Li",
+        "url": "https://www.zhihu.com/api/v4/people/steven-li-96",
+        "url_token": "steven-li-96",
+        "follower_count": 153852,
+        "articles_count": 104,
+        "answer_count": 1173,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "eb50cf383eefd4430ad02a3b7b9469f1": {
+        "username": "\u91cf\u5316\u541b\u4e5f",
+        "url": "https://www.zhihu.com/api/v4/people/rui-jin-66-37",
+        "url_token": "rui-jin-66-37",
+        "follower_count": 2098,
+        "articles_count": 7,
+        "answer_count": 25,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "2624bd715c3747c6effa3ac7f08b8655": {
+        "username": "\u91d1\u5341\u4ea4\u6613\u5b66\u9662",
+        "url": "https://www.zhihu.com/api/v4/people/huan-qiu-xin-wen-she",
+        "url_token": "huan-qiu-xin-wen-she",
+        "follower_count": 1321,
+        "articles_count": 540,
+        "answer_count": 162,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "87671a24eaf2c8b6b2742c36ef2f5cef": {
+        "username": "\u91cf\u5316\u7814\u7a76QRI",
+        "url": "https://www.zhihu.com/api/v4/people/lanruoyao",
+        "url_token": "lanruoyao",
+        "follower_count": 2597,
+        "articles_count": 26,
+        "answer_count": 154,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "a43edcdd0ac3d2e1473023ed0af0bf2a": {
+        "username": "\u9a6c\u540c\u5b66",
+        "url": "https://www.zhihu.com/api/v4/people/matongxue",
+        "url_token": "matongxue",
+        "follower_count": 331324,
+        "articles_count": 46,
+        "answer_count": 187,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ac984f6ab50f60350f4ebb863c584f02": {
+        "username": "\u66fe\u4f0a\u8a00",
+        "url": "https://www.zhihu.com/api/v4/people/ceng-yi-yan-8",
+        "url_token": "ceng-yi-yan-8",
+        "follower_count": 12602,
+        "articles_count": 54,
+        "answer_count": 18,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "1f3f5d679426c1fdd64d31e24e91c3d2": {
+        "username": "\u94b1\u5858\u5c0f\u7532\u5b50",
+        "url": "https://www.zhihu.com/api/v4/people/qtlyx",
+        "url_token": "qtlyx",
+        "follower_count": 1793,
+        "articles_count": 29,
+        "answer_count": 93,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "14c7539369bca2fc510ac1c994f0d386": {
+        "username": "\u5927\u7a7a\u9a74",
+        "url": "https://www.zhihu.com/api/v4/people/sui-min-yan",
+        "url_token": "sui-min-yan",
+        "follower_count": 2044,
+        "articles_count": 27,
+        "answer_count": 46,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "47c525f0122b8ba4b218dba49e9bb4a5": {
+        "username": "\u5077\u5403\u72d7\u72d7\u7684\u9aa8\u5934",
+        "url": "https://www.zhihu.com/api/v4/people/reseted1568969065531",
+        "url_token": "reseted1568969065531",
+        "follower_count": 1141,
+        "articles_count": 0,
+        "answer_count": 202,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e3cab541f318c4b8edd6605d9e6e9dd5": {
+        "username": "\u53ef\u8f6c\u503a\u91cf\u5316\u6295\u8d44",
+        "url": "https://www.zhihu.com/api/v4/people/qi-nian-qian-de-xue-jing",
+        "url_token": "qi-nian-qian-de-xue-jing",
+        "follower_count": 9115,
+        "articles_count": 273,
+        "answer_count": 70,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9511694765cc0720322a05f03e15d7cc": {
+        "username": "\u963f\u5c9b\u683c",
+        "url": "https://www.zhihu.com/api/v4/people/adog-57-38",
+        "url_token": "adog-57-38",
+        "follower_count": 8770,
+        "articles_count": 267,
+        "answer_count": 250,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "69fd6b4c637cd17f35e666ae8068c4b8": {
+        "username": "Mr Figurant",
+        "url": "https://www.zhihu.com/api/v4/people/ni-ming-qun-zhong-97",
+        "url_token": "ni-ming-qun-zhong-97",
+        "follower_count": 20352,
+        "articles_count": 3214,
+        "answer_count": 4041,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "5680709d6eb49bfa5b07803d5d51161a": {
+        "username": "\u6155\u957f\u98ce",
+        "url": "https://www.zhihu.com/api/v4/people/Jiango.win",
+        "url_token": "Jiango.win",
+        "follower_count": 2082,
+        "articles_count": 21,
+        "answer_count": 45,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f2051508bd0c9a383386e73ff7a8480b": {
+        "username": "TopView",
+        "url": "https://www.zhihu.com/api/v4/people/topview_skyfall",
+        "url_token": "topview_skyfall",
+        "follower_count": 619656,
+        "articles_count": 991,
+        "answer_count": 490,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "4e961d18fbd0dfa0e7c003ba566b40b4": {
+        "username": "kyuubi",
+        "url": "https://www.zhihu.com/api/v4/people/kyuubi",
+        "url_token": "kyuubi",
+        "follower_count": 4964,
+        "articles_count": 0,
+        "answer_count": 1248,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "46299c34e4036725f051c494eb2d01f1": {
+        "username": "\u5bbd\u5ba2\u8fdb\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/kuan-ke-jin-hua",
+        "url_token": "kuan-ke-jin-hua",
+        "follower_count": 687,
+        "articles_count": 132,
+        "answer_count": 89,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "9c6a30399430ffbbb78115c7797b25eb": {
+        "username": "\u7acb\u5764",
+        "url": "https://www.zhihu.com/api/v4/people/yizidao",
+        "url_token": "yizidao",
+        "follower_count": 3390,
+        "articles_count": 43,
+        "answer_count": 92,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "2833e14dca78da5cecbb07eaf59f23d0": {
+        "username": "alphaquant",
+        "url": "https://www.zhihu.com/api/v4/people/shou-zhu-dai-tu-66-21",
+        "url_token": "shou-zhu-dai-tu-66-21",
+        "follower_count": 4491,
+        "articles_count": 7,
+        "answer_count": 31,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6cd906084dab4e09803fe50d13c01a46": {
+        "username": "\u91cf\u5316\u7b56\u7565\u4eba\u5de5\u667a\u80fd",
+        "url": "https://www.zhihu.com/api/v4/people/qtaii",
+        "url_token": "qtaii",
+        "follower_count": 1245,
+        "articles_count": 61,
+        "answer_count": 240,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "dbd18a3e18a711e3575efb1766d4e970": {
+        "username": "Jermmy",
+        "url": "https://www.zhihu.com/api/v4/people/xu-yong-zhe-65",
+        "url_token": "xu-yong-zhe-65",
+        "follower_count": 4620,
+        "articles_count": 37,
+        "answer_count": 20,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d828310803fb16783a75bb5aa4c3a3d6": {
+        "username": "Lambda",
+        "url": "https://www.zhihu.com/api/v4/people/quant-45",
+        "url_token": "quant-45",
+        "follower_count": 1496,
+        "articles_count": 12,
+        "answer_count": 9,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "2597a49f50e3337a6b107391d2a9b721": {
+        "username": "\u91cf\u5316\u72ee",
+        "url": "https://www.zhihu.com/api/v4/people/liang-hua-shi",
+        "url_token": "liang-hua-shi",
+        "follower_count": 1317,
+        "articles_count": 11,
+        "answer_count": 26,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e2402133e15bc43aa55d7d8dfa363475": {
+        "username": "\u674e\u4e7e",
+        "url": "https://www.zhihu.com/api/v4/people/liqian-SF159152",
+        "url_token": "liqian-SF159152",
+        "follower_count": 1559,
+        "articles_count": 5,
+        "answer_count": 20,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9727fa1d8cb7cad4ea314031499778ce": {
+        "username": "\u6c5f\u5357",
+        "url": "https://www.zhihu.com/api/v4/people/canslim",
+        "url_token": "canslim",
+        "follower_count": 59541,
+        "articles_count": 156,
+        "answer_count": 650,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "2f2e832c95a5b080a569ebbb9e82d9cf": {
+        "username": "\u9648\u80dc",
+        "url": "https://www.zhihu.com/api/v4/people/chen-sheng-51-41-9",
+        "url_token": "chen-sheng-51-41-9",
+        "follower_count": 2004,
+        "articles_count": 46,
+        "answer_count": 301,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b9d15f2d3d5eff1102816955bc9e1b85": {
+        "username": "GreatPie",
+        "url": "https://www.zhihu.com/api/v4/people/greatpie",
+        "url_token": "greatpie",
+        "follower_count": 13900,
+        "articles_count": 0,
+        "answer_count": 967,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "f2565af71ecfa8082284aa411b1bc535": {
+        "username": "\u51af\u8fc5",
+        "url": "https://www.zhihu.com/api/v4/people/feng-xun-21-79",
+        "url_token": "feng-xun-21-79",
+        "follower_count": 4028,
+        "articles_count": 24,
+        "answer_count": 13,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9113e8ad024e7db473f8a9ed3f88b898": {
+        "username": "\u8bd7\u4e0e\u661f\u7a7a",
+        "url": "https://www.zhihu.com/api/v4/people/GalaxyRover",
+        "url_token": "GalaxyRover",
+        "follower_count": 2171336,
+        "articles_count": 2513,
+        "answer_count": 6824,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "4eecfcd3104bb52e69759200a727e450": {
+        "username": "\u8001\u6e7ePython\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/chen-li-ming-98-40",
+        "url_token": "chen-li-ming-98-40",
+        "follower_count": 3206,
+        "articles_count": 10,
+        "answer_count": 114,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "a072cbf8e1785fcea9cdffc093aed6e5": {
+        "username": "quant.show",
+        "url": "https://www.zhihu.com/api/v4/people/quant.show",
+        "url_token": "quant.show",
+        "follower_count": 301,
+        "articles_count": 47,
+        "answer_count": 79,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b9b3c9e889376f30c589f85eb0639923": {
+        "username": "\u5362\u65fa\u6749",
+        "url": "https://www.zhihu.com/api/v4/people/luwangshan",
+        "url_token": "luwangshan",
+        "follower_count": 34336,
+        "articles_count": 0,
+        "answer_count": 88,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b82c18e1fbf063984c937ffb19cb1191": {
+        "username": "LIKE",
+        "url": "https://www.zhihu.com/api/v4/people/like-33",
+        "url_token": "like-33",
+        "follower_count": 47508,
+        "articles_count": 24,
+        "answer_count": 81,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d919f04552c1c7fe6315a0c8d9990a66": {
+        "username": "\u6768\u5f71\u67ab",
+        "url": "https://www.zhihu.com/api/v4/people/yang-ying-feng-7",
+        "url_token": "yang-ying-feng-7",
+        "follower_count": 54646,
+        "articles_count": 0,
+        "answer_count": 268,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "63cdb218d3018e28fd9b32b51e1ee4da": {
+        "username": "\u817e\u5929",
+        "url": "https://www.zhihu.com/api/v4/people/mei-teng-tian",
+        "url_token": "mei-teng-tian",
+        "follower_count": 201013,
+        "articles_count": 26,
+        "answer_count": 2152,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "3fc0e5ac8e0e61552b1b0529ba49b3e7": {
+        "username": "\u8881\u6d69\u701a",
+        "url": "https://www.zhihu.com/api/v4/people/id47",
+        "url_token": "id47",
+        "follower_count": 147048,
+        "articles_count": 3,
+        "answer_count": 39,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e03ca2a6ad372f7e9da97542151f33ff": {
+        "username": "starseeker",
+        "url": "https://www.zhihu.com/api/v4/people/bruceashbey",
+        "url_token": "bruceashbey",
+        "follower_count": 26362,
+        "articles_count": 13,
+        "answer_count": 81,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "8a91f7e5c883f86408a506da3246f4be": {
+        "username": "\u542f\u56db",
+        "url": "https://www.zhihu.com/api/v4/people/zhang-kuo-ye",
+        "url_token": "zhang-kuo-ye",
+        "follower_count": 2601,
+        "articles_count": 581,
+        "answer_count": 16,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "5544ae099cc3f41df8370ff894042dda": {
+        "username": "\u91cf\u5316\u98ce\u4e91",
+        "url": "https://www.zhihu.com/api/v4/people/hbaaron",
+        "url_token": "hbaaron",
+        "follower_count": 11214,
+        "articles_count": 137,
+        "answer_count": 457,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "043ff01e5d03c529c268d50f388012c2": {
+        "username": "\u674e\u5f00\u590d",
+        "url": "https://www.zhihu.com/api/v4/people/kaifulee",
+        "url_token": "kaifulee",
+        "follower_count": 1115761,
+        "articles_count": 35,
+        "answer_count": 110,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "d546a712ea226853cbc96da42a01cdef": {
+        "username": "PKU.ShowMaker",
+        "url": "https://www.zhihu.com/api/v4/people/rain-33-4",
+        "url_token": "rain-33-4",
+        "follower_count": 697,
+        "articles_count": 3,
+        "answer_count": 37,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ded3bca0dd63c277d19aa8d4873adc28": {
+        "username": "00\u540e\u5bcc\u4e00\u4ee3",
+        "url": "https://www.zhihu.com/api/v4/people/mei-hao-wei-lai-9-78-87",
+        "url_token": "mei-hao-wei-lai-9-78-87",
+        "follower_count": 36351,
+        "articles_count": 22,
+        "answer_count": 75,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6aea0fd77b4a71ce9dc23c90105f6ed7": {
+        "username": "\u968f\u6ce2\u7af9\u7559",
+        "url": "https://www.zhihu.com/api/v4/people/sui-bo-zhu-liu-11-34",
+        "url_token": "sui-bo-zhu-liu-11-34",
+        "follower_count": 62378,
+        "articles_count": 187,
+        "answer_count": 477,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1f012ac76fff388e5f08d1b910017ea1": {
+        "username": "Spectator",
+        "url": "https://www.zhihu.com/api/v4/people/spectating",
+        "url_token": "spectating",
+        "follower_count": 16358,
+        "articles_count": 124,
+        "answer_count": 66,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f144c6bbef58f3adfced551dd736a611": {
+        "username": "AI\u91cf\u5316\u6295\u8d44\u5b9e\u9a8c\u5ba4",
+        "url": "https://www.zhihu.com/api/v4/people/weijiabin",
+        "url_token": "weijiabin",
+        "follower_count": 8254,
+        "articles_count": 609,
+        "answer_count": 4,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f7e39864b396951a9ea654a88af161cb": {
+        "username": "deephub",
+        "url": "https://www.zhihu.com/api/v4/people/deephub",
+        "url_token": "deephub",
+        "follower_count": 34384,
+        "articles_count": 1329,
+        "answer_count": 10,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "8f00c8882b37cc0483d86ec7ad1b0548": {
+        "username": "\u849f\u84bb\u738b",
+        "url": "https://www.zhihu.com/api/v4/people/wyvern92",
+        "url_token": "wyvern92",
+        "follower_count": 13370,
+        "articles_count": 34,
+        "answer_count": 29,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "10d5e5537ef798bb7abc0abe214d335f": {
+        "username": "\u56fe\u7075\u7684\u732b",
+        "url": "https://www.zhihu.com/api/v4/people/dong-xi-97-29",
+        "url_token": "dong-xi-97-29",
+        "follower_count": 556952,
+        "articles_count": 59,
+        "answer_count": 206,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "a5ca892664ddc6b72702ceee1bdbd2af": {
+        "username": "\u79c1\u52dffinder",
+        "url": "https://www.zhihu.com/api/v4/people/kakxnxbusbbs",
+        "url_token": "kakxnxbusbbs",
+        "follower_count": 15841,
+        "articles_count": 127,
+        "answer_count": 86,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "db21ba02a1225c168b660d95bb988cb1": {
+        "username": "\u5434\u6069\u8fbe",
+        "url": "https://www.zhihu.com/api/v4/people/wu-en-da-89",
+        "url_token": "wu-en-da-89",
+        "follower_count": 388911,
+        "articles_count": 67,
+        "answer_count": 1,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "27160ed1f4578162a08c3519a463896e": {
+        "username": "\u81f3\u7b80\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/feng-liao-de-mu-rong-fu",
+        "url_token": "feng-liao-de-mu-rong-fu",
+        "follower_count": 689,
+        "articles_count": 75,
+        "answer_count": 102,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "8e1849b211b80dbf1ae53f620e9d7b95": {
+        "username": "\u4e91\u91d1\u675e",
+        "url": "https://www.zhihu.com/api/v4/people/yun-jin-qi",
+        "url_token": "yun-jin-qi",
+        "follower_count": 10050,
+        "articles_count": 555,
+        "answer_count": 235,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b75760f9baddfd87eb42ef30d4c542c6": {
+        "username": "\u5f20\u76ca\u5510",
+        "url": "https://www.zhihu.com/api/v4/people/19-32-66-94",
+        "url_token": "19-32-66-94",
+        "follower_count": 32832,
+        "articles_count": 0,
+        "answer_count": 2,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "cc759c5d7c383aa95e7633f06bcf6d82": {
+        "username": "\u6854\u4e86\u4e2a\u4ed4",
+        "url": "https://www.zhihu.com/api/v4/people/huangzhe",
+        "url_token": "huangzhe",
+        "follower_count": 64476,
+        "articles_count": 87,
+        "answer_count": 778,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f0631b0ec9acc93d049701e9b5141d8b": {
+        "username": "\u968f\u7f18\u5c71\u4eba",
+        "url": "https://www.zhihu.com/api/v4/people/huang-yun-long-36-73",
+        "url_token": "huang-yun-long-36-73",
+        "follower_count": 1934,
+        "articles_count": 96,
+        "answer_count": 121,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ac0682844c44a9642c5f92ca311d6dfe": {
+        "username": "Clever Liu",
+        "url": "https://www.zhihu.com/api/v4/people/weicong-liu-41",
+        "url_token": "weicong-liu-41",
+        "follower_count": 23096,
+        "articles_count": 8,
+        "answer_count": 14,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "59915ce281b6623b6d399c8e4c469a1b": {
+        "username": "Python\u4e0e\u6570\u636e\u6316\u6398",
+        "url": "https://www.zhihu.com/api/v4/people/lao-q-84",
+        "url_token": "lao-q-84",
+        "follower_count": 52983,
+        "articles_count": 606,
+        "answer_count": 58,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "3fa0ed25873eaa523519e1eb0f4b8855": {
+        "username": "\u55b5\u9171\u5b66\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/hiyojiang-xue-liang-hua",
+        "url_token": "hiyojiang-xue-liang-hua",
+        "follower_count": 8056,
+        "articles_count": 108,
+        "answer_count": 72,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "15aa5ae1ddad5dcc1ac10bc06b9826fa": {
+        "username": "Jerry Ma",
+        "url": "https://www.zhihu.com/api/v4/people/jerryma183",
+        "url_token": "jerryma183",
+        "follower_count": 104709,
+        "articles_count": 938,
+        "answer_count": 689,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "30f506bc4f6d30f9bab938d991202016": {
+        "username": "\u7f16\u7a0b\u6307\u5317",
+        "url": "https://www.zhihu.com/api/v4/people/bian-cheng-zhi-bei",
+        "url_token": "bian-cheng-zhi-bei",
+        "follower_count": 149663,
+        "articles_count": 78,
+        "answer_count": 690,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c6e85ba5d5999df4c5ce2f2903b1ce0e": {
+        "username": "\u9a6c\u529b\u5728\u77e5\u7fa4",
+        "url": "https://www.zhihu.com/api/v4/people/mali",
+        "url_token": "mali",
+        "follower_count": 1424503,
+        "articles_count": 1791,
+        "answer_count": 4121,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "50bf2877451d848ebbddd253aeb075d1": {
+        "username": "DigQuant\u70b9\u5bbd",
+        "url": "https://www.zhihu.com/api/v4/people/digquant",
+        "url_token": "digquant",
+        "follower_count": 10005,
+        "articles_count": 411,
+        "answer_count": 2,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "980f44984b360c93218d9bf5ce414410": {
+        "username": "optMaster",
+        "url": "https://www.zhihu.com/api/v4/people/optmaster",
+        "url_token": "optmaster",
+        "follower_count": 7982,
+        "articles_count": 170,
+        "answer_count": 27,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "057f03d83bc7a385ed14f8356fb02b60": {
+        "username": "\u5361\u65b9\u7814\u7a76\u9662",
+        "url": "https://www.zhihu.com/api/v4/people/qia-fang-yan-jiu-yuan",
+        "url_token": "qia-fang-yan-jiu-yuan",
+        "follower_count": 9710,
+        "articles_count": 89,
+        "answer_count": 0,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "567049f1909b800089ffaab7ba20ad40": {
+        "username": "Daivy",
+        "url": "https://www.zhihu.com/api/v4/people/player_not_pay",
+        "url_token": "player_not_pay",
+        "follower_count": 1331,
+        "articles_count": 10,
+        "answer_count": 1,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "93713f43f0d2f60b08784bbfba2e7307": {
+        "username": "\u8d44\u7ba1\u5c0fquant",
+        "url": "https://www.zhihu.com/api/v4/people/xiang-qian-kan-90-56",
+        "url_token": "xiang-qian-kan-90-56",
+        "follower_count": 11866,
+        "articles_count": 50,
+        "answer_count": 42,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d846182ce96d7391568957101d97912f": {
+        "username": "\u827e\u827epuppy",
+        "url": "https://www.zhihu.com/api/v4/people/lu-ai-ai-63-7",
+        "url_token": "lu-ai-ai-63-7",
+        "follower_count": 34922,
+        "articles_count": 107,
+        "answer_count": 188,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "707f0a1ffcf8f2ccba1fe364fed50f8d": {
+        "username": "\u590d\u6765\u6307\u6570\u6295\u8d44",
+        "url": "https://www.zhihu.com/api/v4/people/he-jian-86",
+        "url_token": "he-jian-86",
+        "follower_count": 7971,
+        "articles_count": 151,
+        "answer_count": 188,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "639ac53c506043e76cf1827fe78db8dc": {
+        "username": "\u9648\u7687\u5b87 Renco",
+        "url": "https://www.zhihu.com/api/v4/people/chen-huang-yu",
+        "url_token": "chen-huang-yu",
+        "follower_count": 64140,
+        "articles_count": 20,
+        "answer_count": 84,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "08bbcfa3ff108605e1eda167fd1300dc": {
+        "username": "\u4eba\u4e16\u95f4",
+        "url": "https://www.zhihu.com/api/v4/people/reseted1529484531386",
+        "url_token": "reseted1529484531386",
+        "follower_count": 35869,
+        "articles_count": 254,
+        "answer_count": 1457,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "19930e1075fc84221260d2843b258a28": {
+        "username": "\u706b\u8c61\u793e\u533a",
+        "url": "https://www.zhihu.com/api/v4/people/alpha-zone",
+        "url_token": "alpha-zone",
+        "follower_count": 24278,
+        "articles_count": 443,
+        "answer_count": 325,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "967eac0a5a0780b7603da0051278abda": {
+        "username": "\u9648\u5927\u5b9d",
+        "url": "https://www.zhihu.com/api/v4/people/11410579",
+        "url_token": "11410579",
+        "follower_count": 67138,
+        "articles_count": 5,
+        "answer_count": 1205,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "7ba9236eefe84f97aa8cef4712b3d63a": {
+        "username": "\u5938\u514b\u5723\u4ee3",
+        "url": "https://www.zhihu.com/api/v4/people/heliumsea",
+        "url_token": "heliumsea",
+        "follower_count": 22531,
+        "articles_count": 1,
+        "answer_count": 267,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "916a5a83cd1bd9845612b6ff9b3ef603": {
+        "username": "Joseph",
+        "url": "https://www.zhihu.com/api/v4/people/josephchen-12",
+        "url_token": "josephchen-12",
+        "follower_count": 5183,
+        "articles_count": 10,
+        "answer_count": 33,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "fee336c8e3ab19cfe85e44b072e94fa4": {
+        "username": "\u98de\u4e91\u91d1\u6559",
+        "url": "https://www.zhihu.com/api/v4/people/fei-yun-jin-jiao",
+        "url_token": "fei-yun-jin-jiao",
+        "follower_count": 908,
+        "articles_count": 21,
+        "answer_count": 2,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "77fbeb4a1477d5b7299848fdd5dd5418": {
+        "username": "\u5411\u6590HariSeldon",
+        "url": "https://www.zhihu.com/api/v4/people/cao-xie-66",
+        "url_token": "cao-xie-66",
+        "follower_count": 8446,
+        "articles_count": 6,
+        "answer_count": 4,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "7175cfe4cf6fff94c46cd3543633074f": {
+        "username": "\u516b\u4f4d\u6570\u82b1\u56ed",
+        "url": "https://www.zhihu.com/api/v4/people/baweishuhuayuan",
+        "url_token": "baweishuhuayuan",
+        "follower_count": 23376,
+        "articles_count": 54,
+        "answer_count": 317,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "3a6e8ebd9bc64271aab3f1c9c9f217dc": {
+        "username": "\u817e\u8baf\u6280\u672f\u5de5\u7a0b",
+        "url": "https://www.zhihu.com/api/v4/people/teng-xun-ji-zhu-gong-cheng",
+        "url_token": "teng-xun-ji-zhu-gong-cheng",
+        "follower_count": 295431,
+        "articles_count": 595,
+        "answer_count": 125,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "06a67981ced7a2e9f07005185605685c": {
+        "username": "\u673a\u5668\u4e4b\u5fc3",
+        "url": "https://www.zhihu.com/api/v4/people/ji-qi-zhi-xin-65",
+        "url_token": "ji-qi-zhi-xin-65",
+        "follower_count": 665642,
+        "articles_count": 6234,
+        "answer_count": 89,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "bd3a97f59a389c5fbddd03d571332a6a": {
+        "username": "\u7f57\u52c7",
+        "url": "https://www.zhihu.com/api/v4/people/luo-yong-4-1",
+        "url_token": "luo-yong-4-1",
+        "follower_count": 23578,
+        "articles_count": 659,
+        "answer_count": 384,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d2c0d0efb28613bc7d4835f01b79d18f": {
+        "username": "\u5434\u4e8c\u771f",
+        "url": "https://www.zhihu.com/api/v4/people/jesse-wu-82",
+        "url_token": "jesse-wu-82",
+        "follower_count": 5933,
+        "articles_count": 0,
+        "answer_count": 128,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ba2c11518d4a3c091fa1afe01bfd25fb": {
+        "username": "Steven\u91cf\u5316\u730e\u5934",
+        "url": "https://www.zhihu.com/api/v4/people/steven.chen",
+        "url_token": "steven.chen",
+        "follower_count": 15170,
+        "articles_count": 77,
+        "answer_count": 163,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c1447eedadc1873e24f9b497160deda4": {
+        "username": "\u8bf8\u845b\u5c0f\u519c\u8bf4\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/nong-cheng-16",
+        "url_token": "nong-cheng-16",
+        "follower_count": 10035,
+        "articles_count": 3,
+        "answer_count": 49,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "52cbbcadc2c54902ab6c134c08efab37": {
+        "username": "\u5361\u5361\u7f57\u7279",
+        "url": "https://www.zhihu.com/api/v4/people/kxian-qi-shi",
+        "url_token": "kxian-qi-shi",
+        "follower_count": 1977,
+        "articles_count": 109,
+        "answer_count": 12,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "0fd85889507ad47c4a460e444829c9f1": {
+        "username": "\u65af\u7801\u7279\u94a2",
+        "url": "https://www.zhihu.com/api/v4/people/smartgang",
+        "url_token": "smartgang",
+        "follower_count": 4719,
+        "articles_count": 5,
+        "answer_count": 31,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1a7d5ed9cd94d34f55220d8bb50730eb": {
+        "username": "sliova",
+        "url": "https://www.zhihu.com/api/v4/people/sliova",
+        "url_token": "sliova",
+        "follower_count": 1556,
+        "articles_count": 1288,
+        "answer_count": 98,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "45c8a2b0c1ec5e83cb73e552585da198": {
+        "username": "\u9009\u57fa\u4eba",
+        "url": "https://www.zhihu.com/api/v4/people/lao-si-ji-62-36-51",
+        "url_token": "lao-si-ji-62-36-51",
+        "follower_count": 2598,
+        "articles_count": 8,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "5a09159f015e810bccccf607826bd645": {
+        "username": "\u91d1\u878d\u9636",
+        "url": "https://www.zhihu.com/api/v4/people/jin-rong-jie-9-87",
+        "url_token": "jin-rong-jie-9-87",
+        "follower_count": 4838,
+        "articles_count": 226,
+        "answer_count": 572,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "72de9750db2ee76166b0f928ae7c4aed": {
+        "username": "\u91d1\u878d\u5708\u7b1b\u5b50",
+        "url": "https://www.zhihu.com/api/v4/people/yang-jia-93-39",
+        "url_token": "yang-jia-93-39",
+        "follower_count": 33480,
+        "articles_count": 2,
+        "answer_count": 226,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "76376f11b59798abe982bead7848b2df": {
+        "username": "\u91cf\u5316\u730e\u5934 Mike",
+        "url": "https://www.zhihu.com/api/v4/people/michael-58-87",
+        "url_token": "michael-58-87",
+        "follower_count": 4733,
+        "articles_count": 118,
+        "answer_count": 212,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9a2ff970a9b6eb5e87e1f9dcc7d6c8fb": {
+        "username": "Daisy",
+        "url": "https://www.zhihu.com/api/v4/people/dorothy-70-38",
+        "url_token": "dorothy-70-38",
+        "follower_count": 3709,
+        "articles_count": 25,
+        "answer_count": 93,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "72b4c29905306061f94c538685fa0f83": {
+        "username": "\u534e\u5c14\u8857\u8001\u5175",
+        "url": "https://www.zhihu.com/api/v4/people/tucker-73-55",
+        "url_token": "tucker-73-55",
+        "follower_count": 7779,
+        "articles_count": 107,
+        "answer_count": 1144,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "19e3a0f9b0c9816f30e4e68a36d8089e": {
+        "username": "quanthub",
+        "url": "https://www.zhihu.com/api/v4/people/jiang-tian-tu",
+        "url_token": "jiang-tian-tu",
+        "follower_count": 10115,
+        "articles_count": 25,
+        "answer_count": 28,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "a62c7517b6018e6a7b31e661867afc3e": {
+        "username": "\u4f55\u6ce2",
+        "url": "https://www.zhihu.com/api/v4/people/poeho",
+        "url_token": "poeho",
+        "follower_count": 38224,
+        "articles_count": 11,
+        "answer_count": 157,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "48c83571d7c32511961220839efea58f": {
+        "username": "\u91cf\u5316\u653b\u57ce\u72ee",
+        "url": "https://www.zhihu.com/api/v4/people/a-shi-11-53",
+        "url_token": "a-shi-11-53",
+        "follower_count": 4970,
+        "articles_count": 66,
+        "answer_count": 46,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9bc84724d70e99b8bbd1bed276be7b34": {
+        "username": "\u91cf\u5316\u89c2\u5bdf",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-wang-zhi-hu-fen-bu-qing",
+        "url_token": "zhi-wang-zhi-hu-fen-bu-qing",
+        "follower_count": 5440,
+        "articles_count": 55,
+        "answer_count": 251,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "a34b992c41148325e22f0eae66044766": {
+        "username": "\u4e4b\u4e4e\u8005\u4e5f",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-zhe-ye-33-92",
+        "url_token": "zhi-hu-zhe-ye-33-92",
+        "follower_count": 50781,
+        "articles_count": 81,
+        "answer_count": 23,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ba6be6e15f40a101d50496ac344c0d84": {
+        "username": "\u4e91\u950b\u91d1\u878d",
+        "url": "https://www.zhihu.com/api/v4/people/yun-feng-jin-rong",
+        "url_token": "yun-feng-jin-rong",
+        "follower_count": 115043,
+        "articles_count": 1286,
+        "answer_count": 649,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "8afdf0c9c6a7f65f1b895f4d425021a2": {
+        "username": "\u9e7f\u706f",
+        "url": "https://www.zhihu.com/api/v4/people/ji-fan-8-86",
+        "url_token": "ji-fan-8-86",
+        "follower_count": 163659,
+        "articles_count": 35,
+        "answer_count": 33,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9d1f030113a201f1cde656305c98e377": {
+        "username": "\u6ce2\u65ec",
+        "url": "https://www.zhihu.com/api/v4/people/boxun",
+        "url_token": "boxun",
+        "follower_count": 539219,
+        "articles_count": 114,
+        "answer_count": 184,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "528c7ade80f0811e55e8b1bb768dad68": {
+        "username": "Jack Wang",
+        "url": "https://www.zhihu.com/api/v4/people/jackwang9959",
+        "url_token": "jackwang9959",
+        "follower_count": 136343,
+        "articles_count": 256,
+        "answer_count": 2620,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1a6d136565d676cdccb7f29e578306db": {
+        "username": "\u53d1\u660e\u8005\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/fa-ming-zhe-liang-hua",
+        "url_token": "fa-ming-zhe-liang-hua",
+        "follower_count": 4201,
+        "articles_count": 42,
+        "answer_count": 166,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "6d008c6eec0818542e2aa837655c4855": {
+        "username": "\u6398\u91d1\u91cf\u5316",
+        "url": "https://www.zhihu.com/api/v4/people/shen-zhen-hong-shu-ke-ji-you-xian-gong-si",
+        "url_token": "shen-zhen-hong-shu-ke-ji-you-xian-gong-si",
+        "follower_count": 4863,
+        "articles_count": 182,
+        "answer_count": 94,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "8ebac1468af7817d830b4a300efe3a6a": {
+        "username": "\u5e72\u8d27\u903b\u8f91",
+        "url": "https://www.zhihu.com/api/v4/people/he-jia-lei-80",
+        "url_token": "he-jia-lei-80",
+        "follower_count": 228809,
+        "articles_count": 147,
+        "answer_count": 2570,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "59de8693e7f26198003475a928058cf9": {
+        "username": "\u5c0f\u7ea6\u7ff0",
+        "url": "https://www.zhihu.com/api/v4/people/lu-chen-xi-9-98",
+        "url_token": "lu-chen-xi-9-98",
+        "follower_count": 860210,
+        "articles_count": 6,
+        "answer_count": 460,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "35dbc5f41026da9e6a258fb73f28066a": {
+        "username": "littledream",
+        "url": "https://www.zhihu.com/api/v4/people/littledream-XX",
+        "url_token": "littledream-XX",
+        "follower_count": 15164,
+        "articles_count": 133,
+        "answer_count": 200,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f9090a35967964f477bf852afd7cb60e": {
+        "username": "\u674e\u817e",
+        "url": "https://www.zhihu.com/api/v4/people/li-teng-13",
+        "url_token": "li-teng-13",
+        "follower_count": 149976,
+        "articles_count": 84,
+        "answer_count": 256,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "8891df99e03d3ef60d8f694bf417eb5c": {
+        "username": "Charlie",
+        "url": "https://www.zhihu.com/api/v4/people/charles-58-59-65",
+        "url_token": "charles-58-59-65",
+        "follower_count": 30985,
+        "articles_count": 216,
+        "answer_count": 103,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "8948282d9358d550d1262230120036e7": {
+        "username": "\u9648\u5c0f\u7c73",
+        "url": "https://www.zhihu.com/api/v4/people/miranda-0408",
+        "url_token": "miranda-0408",
+        "follower_count": 11471,
+        "articles_count": 19,
+        "answer_count": 27,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "d425437ce15e78f66326cb121ab276ea": {
+        "username": "\u963f\u4e3d",
+        "url": "https://www.zhihu.com/api/v4/people/hunterchen029",
+        "url_token": "hunterchen029",
+        "follower_count": 23928,
+        "articles_count": 63,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "bf4f842c471d7d4d0dd5e573087be574": {
+        "username": "\u5f90\u6240\u8c13\u5411\u524d",
+        "url": "https://www.zhihu.com/api/v4/people/high-flyer-quant-xj",
+        "url_token": "high-flyer-quant-xj",
+        "follower_count": 28277,
+        "articles_count": 7,
+        "answer_count": 119,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6e48dd800b6a93b05f4c5349f6e1cca7": {
+        "username": "Jesse",
+        "url": "https://www.zhihu.com/api/v4/people/jesseweifj",
+        "url_token": "jesseweifj",
+        "follower_count": 11371,
+        "articles_count": 18,
+        "answer_count": 9,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c45e03cc3b2c24c1761d4c08cb3afffb": {
+        "username": "\u6559\u7236Kim",
+        "url": "https://www.zhihu.com/api/v4/people/mygodfather",
+        "url_token": "mygodfather",
+        "follower_count": 38897,
+        "articles_count": 20,
+        "answer_count": 184,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "506fb3cf7dbb7b111a24e85677993e4c": {
+        "username": "\u91cf\u5316\u81ea\u7531\u4e4b\u8def",
+        "url": "https://www.zhihu.com/api/v4/people/30daydo",
+        "url_token": "30daydo",
+        "follower_count": 22096,
+        "articles_count": 125,
+        "answer_count": 489,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "38ae21880c7bb8bc1a3b914372c9aace": {
+        "username": "\u541b\u8a00",
+        "url": "https://www.zhihu.com/api/v4/people/kan-re-nao-de-ren-54",
+        "url_token": "kan-re-nao-de-ren-54",
+        "follower_count": 20042,
+        "articles_count": 17,
+        "answer_count": 28,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "5ea45cfca1983f0e64ab2b7829cda5c0": {
+        "username": "\u5fae\u5c18-\u9ec4\u542b\u9a70",
+        "url": "https://www.zhihu.com/api/v4/people/huang-han-chi-15",
+        "url_token": "huang-han-chi-15",
+        "follower_count": 25148,
+        "articles_count": 588,
+        "answer_count": 391,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "2cc42a73ac28095da42ad972f2d151cb": {
+        "username": "\u674e\u4e00\u90a8-\u91cf\u5316\u6295\u8d44",
+        "url": "https://www.zhihu.com/api/v4/people/li-yicun-79",
+        "url_token": "li-yicun-79",
+        "follower_count": 666,
+        "articles_count": 16,
+        "answer_count": 180,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "5f6a0548d644067d949476560aa17d61": {
+        "username": "\u9ed1\u732bQ\u5f62\u6001",
+        "url": "https://www.zhihu.com/api/v4/people/yan-guan-lin-20",
+        "url_token": "yan-guan-lin-20",
+        "follower_count": 103750,
+        "articles_count": 82,
+        "answer_count": 1058,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "fe083a1ac7cecb253ec2aa10526f4690": {
+        "username": "\u63a2\u957f\u7231\u5b66\u4e60",
+        "url": "https://www.zhihu.com/api/v4/people/zzqoxygen",
+        "url_token": "zzqoxygen",
+        "follower_count": 16861,
+        "articles_count": 13,
+        "answer_count": 110,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e219345461a58529d29eac1a4771a4d4": {
+        "username": "\u6625\u6653",
+        "url": "https://www.zhihu.com/api/v4/people/chunxiao311",
+        "url_token": "chunxiao311",
+        "follower_count": 30627,
+        "articles_count": 217,
+        "answer_count": 98,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "d0117a3cd1bb56c55040df8ed0fe381f": {
+        "username": "\u6797\u9c7c\u513f",
+        "url": "https://www.zhihu.com/api/v4/people/lin-yu-er-60",
+        "url_token": "lin-yu-er-60",
+        "follower_count": 43410,
+        "articles_count": 47,
+        "answer_count": 1626,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "4717da6123e864f9a9550ae8f53db16d": {
+        "username": "Jack-Cui",
+        "url": "https://www.zhihu.com/api/v4/people/Jack--Cui",
+        "url_token": "Jack--Cui",
+        "follower_count": 55679,
+        "articles_count": 94,
+        "answer_count": 78,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "915a0704e1d323c1bf978627524843d1": {
+        "username": "JohnnieDrinker",
+        "url": "https://www.zhihu.com/api/v4/people/JohnnieDrinker",
+        "url_token": "JohnnieDrinker",
+        "follower_count": 44579,
+        "articles_count": 3,
+        "answer_count": 419,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "3b1c5261cbf57987a7ee8249ddc4c019": {
+        "username": "\u590f\u5b87",
+        "url": "https://www.zhihu.com/api/v4/people/xiayu1573",
+        "url_token": "xiayu1573",
+        "follower_count": 91759,
+        "articles_count": 66,
+        "answer_count": 681,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "edf5677cf039ff0c9bfcfb0aa6dd3540": {
+        "username": "\u9ad8\u65af\u8499",
+        "url": "https://www.zhihu.com/api/v4/people/gao-si-meng",
+        "url_token": "gao-si-meng",
+        "follower_count": 30574,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "75dfbc42f8d2f8f3999d0d69f8f4a9d8": {
+        "username": "\u77e5\u4e4e\u77e5\u7269\u5496\u5561",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-zhi-wu-78",
+        "url_token": "zhi-hu-zhi-wu-78",
+        "follower_count": 154599,
+        "articles_count": 98,
+        "answer_count": 150,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "17c6a13f6086efebfaf728cf6b37f908": {
+        "username": "\u77e5\u4e4e\u76d0\u9009\u4f1a\u5458",
+        "url": "https://www.zhihu.com/api/v4/people/AnonymousLive",
+        "url_token": "AnonymousLive",
+        "follower_count": 410315,
+        "articles_count": 117,
+        "answer_count": 16,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "b2a9ba4684fdb6385787186c0d4be471": {
+        "username": "\u521b\u4f5c\u8005\u5c0f\u52a9\u624b",
+        "url": "https://www.zhihu.com/api/v4/people/chuang-zuo-zhe-xiao-zhu-shou",
+        "url_token": "chuang-zuo-zhe-xiao-zhu-shou",
+        "follower_count": 301530,
+        "articles_count": 108,
+        "answer_count": 16,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "0f2006385065c411ad6d08b4fc62b788": {
+        "username": "\u77e5\u4e4e\u79d1\u5b66",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-ke-xue",
+        "url_token": "zhi-hu-ke-xue",
+        "follower_count": 2479104,
+        "articles_count": 92,
+        "answer_count": 25,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "70c5673ee4e9644003f7a725c4a06a4e": {
+        "username": "\u77e5\u4e4e\u6e38\u620f",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-you-xi",
+        "url_token": "zhi-hu-you-xi",
+        "follower_count": 3527980,
+        "articles_count": 521,
+        "answer_count": 36,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "155b1d06c7855de75422b7e66c50a79b": {
+        "username": "\u77e5\u4e4e\u65f6\u5c1a",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-shi-shang",
+        "url_token": "zhi-hu-shi-shang",
+        "follower_count": 5390023,
+        "articles_count": 223,
+        "answer_count": 12,
+        "gender": -1,
+        "user_type": "organization"
+    }
+}

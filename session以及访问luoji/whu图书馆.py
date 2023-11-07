@@ -135,6 +135,5 @@ class Login:
         self.login(SYNCHRONIZER_TOKEN, token)
         self.getSeatInfo()
 
-
 if __name__ == '__main__':
     Login().run()

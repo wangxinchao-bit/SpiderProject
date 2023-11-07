@@ -67,8 +67,7 @@ class Spider(object):
 
     def main(self):
         self.get_page()
-        # self.save_txt()
-        # self.save_json()
+
         self.save_csv()
 if __name__ == '__main__':
     newsSpider = Spider()
