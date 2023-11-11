@@ -30,7 +30,7 @@ def get_x_zse_96(api, cookie_dc_2):
     return result
 
 
-url_token = "72-31-98-7"
+url_token = "todo-31-69"
 
 
 class ZhihuSpider(object):
