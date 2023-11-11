@@ -1,0 +1,52 @@
+{
+    "322a0f17eb16eb49548d2d45da3d5a97": {
+        "username": "优山赵远方",
+        "url": "https://www.zhihu.com/api/v4/people/ushan",
+        "url_token": "ushan",
+        "follower_count": 102803,
+        "articles_count": 99,
+        "answer_count": 691,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "3d6024ba92d6cdfc4e80f8b44e0d0afa": {
+        "username": "异想奇妙物语",
+        "url": "https://www.zhihu.com/api/v4/people/liu-kan-shan-98-70",
+        "url_token": "liu-kan-shan-98-70",
+        "follower_count": 330570,
+        "articles_count": 22,
+        "answer_count": 6,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "3b5bfc429ad1ed00036f90f27f821832": {
+        "username": "知乎芝士平台",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-jia-zi-xuan",
+        "url_token": "zhi-jia-zi-xuan",
+        "follower_count": 184144,
+        "articles_count": 95,
+        "answer_count": 1,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "d64dea25710ea4bb45e3b592b400b6ae": {
+        "username": "知乎好物推荐",
+        "url": "https://www.zhihu.com/api/v4/people/zhihu-haowutuijian",
+        "url_token": "zhihu-haowutuijian",
+        "follower_count": 1183695,
+        "articles_count": 206,
+        "answer_count": 27,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "b267e0c0b0e4862799a1f6967c10cbb2": {
+        "username": "知乎日报",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-ri-bao-51-41",
+        "url_token": "zhi-hu-ri-bao-51-41",
+        "follower_count": 204382296,
+        "articles_count": 1730,
+        "answer_count": 26,
+        "gender": -1,
+        "user_type": "organization"
+    }
+}

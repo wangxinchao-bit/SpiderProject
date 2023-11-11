@@ -1,0 +1,182 @@
+{
+    "ce9bb64416be861b007e0e1fce4b78ff": {
+        "username": "张姑娘",
+        "url": "https://www.zhihu.com/api/v4/people/zhang-gu-niang-48",
+        "url_token": "zhang-gu-niang-48",
+        "follower_count": 3003,
+        "articles_count": 0,
+        "answer_count": 339,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "c0152e342e6dd3121cd8340e84c1a818": {
+        "username": "毛小毛",
+        "url": "https://www.zhihu.com/api/v4/people/mao-xiao-mao-33-21",
+        "url_token": "mao-xiao-mao-33-21",
+        "follower_count": 56307,
+        "articles_count": 1,
+        "answer_count": 22,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "4beba9e1713f168fb77e234bc041be8c": {
+        "username": "改之理zcw",
+        "url": "https://www.zhihu.com/api/v4/people/zcw-gaizhili",
+        "url_token": "zcw-gaizhili",
+        "follower_count": 193462,
+        "articles_count": 121,
+        "answer_count": 2178,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9c809f979c2af9513509e7430658f94e": {
+        "username": "当代军神的素描像",
+        "url": "https://www.zhihu.com/api/v4/people/wang-tao-tao-91-97",
+        "url_token": "wang-tao-tao-91-97",
+        "follower_count": 160746,
+        "articles_count": 1016,
+        "answer_count": 1556,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b058876232f351c7056b0146c1c18e58": {
+        "username": "正将阿兴",
+        "url": "https://www.zhihu.com/api/v4/people/qhacking",
+        "url_token": "qhacking",
+        "follower_count": 63479,
+        "articles_count": 21,
+        "answer_count": 174,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d4a74f44e91854592356406a37a5f090": {
+        "username": "Edward.Fu",
+        "url": "https://www.zhihu.com/api/v4/people/edward-fu-91",
+        "url_token": "edward-fu-91",
+        "follower_count": 32768,
+        "articles_count": 66,
+        "answer_count": 81,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "fe0835ce4fdc1ee0359755db1fa04d2e": {
+        "username": "asheleeyang",
+        "url": "https://www.zhihu.com/api/v4/people/yang-yue-920310",
+        "url_token": "yang-yue-920310",
+        "follower_count": 768,
+        "articles_count": 0,
+        "answer_count": 21,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "462c79c7d3e381705d35ebc135d256fc": {
+        "username": "苔执",
+        "url": "https://www.zhihu.com/api/v4/people/thuquant",
+        "url_token": "thuquant",
+        "follower_count": 112941,
+        "articles_count": 97,
+        "answer_count": 387,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "93f3a3fa1e828fc7703c19029852f806": {
+        "username": "邓爸玩数学",
+        "url": "https://www.zhihu.com/api/v4/people/deng-jie-35",
+        "url_token": "deng-jie-35",
+        "follower_count": 8542,
+        "articles_count": 0,
+        "answer_count": 34,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "034d67956246877e7c376f67e2d10546": {
+        "username": "城东",
+        "url": "https://www.zhihu.com/api/v4/people/jasonfreak",
+        "url_token": "jasonfreak",
+        "follower_count": 3936,
+        "articles_count": 2,
+        "answer_count": 15,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "2e89db544ef57d855c42cd4ce114b463": {
+        "username": "李泽龙",
+        "url": "https://www.zhihu.com/api/v4/people/zelong-li",
+        "url_token": "zelong-li",
+        "follower_count": 29705,
+        "articles_count": 39,
+        "answer_count": 137,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "5c56e30be509630a87a11dd5dc723e48": {
+        "username": "裴幂許",
+        "url": "https://www.zhihu.com/api/v4/people/permissionme",
+        "url_token": "permissionme",
+        "follower_count": 2070,
+        "articles_count": 0,
+        "answer_count": 103,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "2600674a2a13996eaf3e7ab59e1a851c": {
+        "username": "Defy Lu",
+        "url": "https://www.zhihu.com/api/v4/people/defy-lu",
+        "url_token": "defy-lu",
+        "follower_count": 330,
+        "articles_count": 1,
+        "answer_count": 8,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b7e374788516957acdc6c6f72d218e41": {
+        "username": "数学小太白",
+        "url": "https://www.zhihu.com/api/v4/people/ALittlePurity",
+        "url_token": "ALittlePurity",
+        "follower_count": 622,
+        "articles_count": 1,
+        "answer_count": 47,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b800fd1eaf2099684f20b9626b0f008b": {
+        "username": "盘古",
+        "url": "https://www.zhihu.com/api/v4/people/wz-32",
+        "url_token": "wz-32",
+        "follower_count": 4150,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c6e98211be6e21023e11903010ac0420": {
+        "username": "知乎用户o5Pi68",
+        "url": "https://www.zhihu.com/api/v4/people/BarackHusseinObama",
+        "url_token": "BarackHusseinObama",
+        "follower_count": 19,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b1f0413b53cdde94be2a46303079a556": {
+        "username": "记忆豆豆",
+        "url": "https://www.zhihu.com/api/v4/people/it-is-zhang-de-cheng",
+        "url_token": "it-is-zhang-de-cheng",
+        "follower_count": 548,
+        "articles_count": 0,
+        "answer_count": 16,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e9a287b2d56b905f107e082904a793db": {
+        "username": "一箭丿I丨猩",
+        "url": "https://www.zhihu.com/api/v4/people/covfefecovfefe",
+        "url_token": "covfefecovfefe",
+        "follower_count": 210,
+        "articles_count": 0,
+        "answer_count": 148,
+        "gender": -1,
+        "user_type": "people"
+    }
+}

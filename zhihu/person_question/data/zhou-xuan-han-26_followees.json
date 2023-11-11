@@ -1,0 +1,42 @@
+{
+    "bfb2cbd9faa2430b3c081c91e25455dc": {
+        "username": "通信叨客",
+        "url": "https://www.zhihu.com/api/v4/people/tong-xin-dao-ke",
+        "url_token": "tong-xin-dao-ke",
+        "follower_count": 451,
+        "articles_count": 40,
+        "answer_count": 108,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "852006f386c7b7cdffd340262b69c1ee": {
+        "username": "无线深海",
+        "url": "https://www.zhihu.com/api/v4/people/fu-you-cai-cai",
+        "url_token": "fu-you-cai-cai",
+        "follower_count": 15862,
+        "articles_count": 156,
+        "answer_count": 104,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "dd194e4e29e3cac134a09ba870278dd1": {
+        "username": "科言君",
+        "url": "https://www.zhihu.com/api/v4/people/ph-d-er",
+        "url_token": "ph-d-er",
+        "follower_count": 36086,
+        "articles_count": 0,
+        "answer_count": 28,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "e6f277f880c3beb81d8eb127d6df12e1": {
+        "username": "小枣君",
+        "url": "https://www.zhihu.com/api/v4/people/xzclass",
+        "url_token": "xzclass",
+        "follower_count": 150915,
+        "articles_count": 585,
+        "answer_count": 617,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "7d2fa0e2b9337883857af7a72b2701e4": {
+        "username": "前锦衣捕快",
+        "url": "https://www.zhihu.com/api/v4/people/liu-sha-23-5",
+        "url_token": "liu-sha-23-5",
+        "follower_count": 1292,
+        "articles_count": 1,
+        "answer_count": 534,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f8904ce52ac0e2f54fad38406efc2d8d": {
+        "username": "暗夜之殇",
+        "url": "https://www.zhihu.com/api/v4/people/an-ye-zhi-shang-87",
+        "url_token": "an-ye-zhi-shang-87",
+        "follower_count": 476,
+        "articles_count": 1,
+        "answer_count": 237,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "f50f0e44011ed82c20e69326effcbc42": {
+        "username": "ding yi",
+        "url": "https://www.zhihu.com/api/v4/people/ding-yi-43-92",
+        "url_token": "ding-yi-43-92",
+        "follower_count": 7464,
+        "articles_count": 1,
+        "answer_count": 1073,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "8543557719e979ebb06011b403b5b299": {
+        "username": "托卡马克之冠",
+        "url": "https://www.zhihu.com/api/v4/people/tuo-qia-ma-ke-zhi-guan",
+        "url_token": "tuo-qia-ma-ke-zhi-guan",
+        "follower_count": 387646,
+        "articles_count": 16,
+        "answer_count": 1598,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "c8c853fbe0004f46d50f25e4fd6b1d96": {
+        "username": "嬉嬉皮",
+        "url": "https://www.zhihu.com/api/v4/people/h1hippie",
+        "url_token": "h1hippie",
+        "follower_count": 1763,
+        "articles_count": 92,
+        "answer_count": 152,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "3215147b8f4f720bce63a7bfe56c2682": {
+        "username": "清华大学大数据研究中心",
+        "url": "https://www.zhihu.com/api/v4/people/qing-hua-da-xue-shu-ju-ke-xue-yan-jiu-yuan",
+        "url_token": "qing-hua-da-xue-shu-ju-ke-xue-yan-jiu-yuan",
+        "follower_count": 43216,
+        "articles_count": 305,
+        "answer_count": 11,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "2a098ff490590c396dac764510b994ad": {
+        "username": "XuanAxuan",
+        "url": "https://www.zhihu.com/api/v4/people/zhou-xuan-han-26",
+        "url_token": "zhou-xuan-han-26",
+        "follower_count": 10849,
+        "articles_count": 86,
+        "answer_count": 35,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "1a6cc625143e5e6ef8ca81bc6fc558e4": {
+        "username": "丁霄汉",
+        "url": "https://www.zhihu.com/api/v4/people/ding-xiao-yi-93",
+        "url_token": "ding-xiao-yi-93",
+        "follower_count": 21746,
+        "articles_count": 11,
+        "answer_count": 79,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "bb221bae8d0a9f56484a62a3dd7a0954": {
+        "username": "吕昱峰",
+        "url": "https://www.zhihu.com/api/v4/people/lu-yu-feng-46-1",
+        "url_token": "lu-yu-feng-46-1",
+        "follower_count": 1617,
+        "articles_count": 26,
+        "answer_count": 61,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "944fc2cf7b6d3556aaba9d8536ccf670": {
+        "username": "中科院物理所",
+        "url": "https://www.zhihu.com/api/v4/people/zhong-ke-yuan-wu-li-suo",
+        "url_token": "zhong-ke-yuan-wu-li-suo",
+        "follower_count": 908355,
+        "articles_count": 724,
+        "answer_count": 449,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "db21ba02a1225c168b660d95bb988cb1": {
+        "username": "吴恩达",
+        "url": "https://www.zhihu.com/api/v4/people/wu-en-da-89",
+        "url_token": "wu-en-da-89",
+        "follower_count": 389168,
+        "articles_count": 67,
+        "answer_count": 1,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "5c05c9c0be702a0c3966f3def70e3faf": {
+        "username": "Yuhang Liu",
+        "url": "https://www.zhihu.com/api/v4/people/yuhang-liu-34",
+        "url_token": "yuhang-liu-34",
+        "follower_count": 368451,
+        "articles_count": 42,
+        "answer_count": 4424,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "943b9ac5e2cfadc8de8d36eab1552c73": {
+        "username": "榴莲",
+        "url": "https://www.zhihu.com/api/v4/people/liu-lian-24-52-27",
+        "url_token": "liu-lian-24-52-27",
+        "follower_count": 2333,
+        "articles_count": 54,
+        "answer_count": 72,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "e41404970e9112d41659f790aed347bd": {
+        "username": "尔小程babe",
+        "url": "https://www.zhihu.com/api/v4/people/quan-cheng-cheng-12",
+        "url_token": "quan-cheng-cheng-12",
+        "follower_count": 35298,
+        "articles_count": 161,
+        "answer_count": 1172,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "7e765b7dfd6bebb940e56362d828fc9c": {
+        "username": "阳阳同学",
+        "url": "https://www.zhihu.com/api/v4/people/wo-yang-49",
+        "url_token": "wo-yang-49",
+        "follower_count": 5511,
+        "articles_count": 0,
+        "answer_count": 233,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "a12630e4188ee2ee03edb7f0d1d8b17f": {
+        "username": "海布里de酋长",
+        "url": "https://www.zhihu.com/api/v4/people/fan-yue-chao-56",
+        "url_token": "fan-yue-chao-56",
+        "follower_count": 67692,
+        "articles_count": 81,
+        "answer_count": 386,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b304c31456d75db333691b83a4287f49": {
+        "username": "李迎松",
+        "url": "https://www.zhihu.com/api/v4/people/yingsongli",
+        "url_token": "yingsongli",
+        "follower_count": 3802,
+        "articles_count": 35,
+        "answer_count": 4,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b267e0c0b0e4862799a1f6967c10cbb2": {
+        "username": "知乎日报",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-ri-bao-51-41",
+        "url_token": "zhi-hu-ri-bao-51-41",
+        "follower_count": 204382222,
+        "articles_count": 1730,
+        "answer_count": 26,
+        "gender": -1,
+        "user_type": "organization"
+    }
+}

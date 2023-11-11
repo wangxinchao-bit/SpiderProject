@@ -1,0 +1,92 @@
+{
+    "14f1982ee9fd4e9579b918b4676b8b44": {
+        "username": "KnowYourself",
+        "url": "https://www.zhihu.com/api/v4/people/knowyourself-1",
+        "url_token": "knowyourself-1",
+        "follower_count": 2315882,
+        "articles_count": 655,
+        "answer_count": 1956,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "a034862dcc9b8d7603f00de8bfcd3b37": {
+        "username": "甘棠",
+        "url": "https://www.zhihu.com/api/v4/people/gan-tang-54",
+        "url_token": "gan-tang-54",
+        "follower_count": 96769,
+        "articles_count": 1,
+        "answer_count": 28,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "b200b8668e33e7e30c0a6e47cd98458c": {
+        "username": "周冲",
+        "url": "https://www.zhihu.com/api/v4/people/zhouchong2015",
+        "url_token": "zhouchong2015",
+        "follower_count": 167671,
+        "articles_count": 2598,
+        "answer_count": 1172,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "2335fbee0caf07871e4f049582176aef": {
+        "username": "潘志立",
+        "url": "https://www.zhihu.com/api/v4/people/pan-zhi-li-3",
+        "url_token": "pan-zhi-li-3",
+        "follower_count": 107150,
+        "articles_count": 381,
+        "answer_count": 1212,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "10ad75add55c54afad66e337ce7503ac": {
+        "username": "苏爽爽",
+        "url": "https://www.zhihu.com/api/v4/people/suang",
+        "url_token": "suang",
+        "follower_count": 37859,
+        "articles_count": 418,
+        "answer_count": 98,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f81831bea44f2c027bf662268bf760b2": {
+        "username": "静易墨",
+        "url": "https://www.zhihu.com/api/v4/people/jingyimo",
+        "url_token": "jingyimo",
+        "follower_count": 421324,
+        "articles_count": 1433,
+        "answer_count": 470,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c240f1acf2bb496b521f5abe9e509863": {
+        "username": "颜强",
+        "url": "https://www.zhihu.com/api/v4/people/yanqiangsports",
+        "url_token": "yanqiangsports",
+        "follower_count": 35285,
+        "articles_count": 75,
+        "answer_count": 57,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f9de84865e3e8455a09af78bfe4d1da5": {
+        "username": "张佳玮",
+        "url": "https://www.zhihu.com/api/v4/people/zhang-jia-wei",
+        "url_token": "zhang-jia-wei",
+        "follower_count": 3466818,
+        "articles_count": 1391,
+        "answer_count": 4617,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6733f12c60e7e98ea7491f20de46f79e": {
+        "username": "周源",
+        "url": "https://www.zhihu.com/api/v4/people/zhouyuan",
+        "url_token": "zhouyuan",
+        "follower_count": 1035122,
+        "articles_count": 13,
+        "answer_count": 364,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

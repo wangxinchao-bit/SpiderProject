@@ -1,0 +1,42 @@
+{
+    "b19ca4e637b539cb250328d41bb3bb5b": {
+        "username": "邱锡鹏",
+        "url": "https://www.zhihu.com/api/v4/people/xpqiu",
+        "url_token": "xpqiu",
+        "follower_count": 66246,
+        "articles_count": 12,
+        "answer_count": 39,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "462c79c7d3e381705d35ebc135d256fc": {
+        "username": "苔执",
+        "url": "https://www.zhihu.com/api/v4/people/thuquant",
+        "url_token": "thuquant",
+        "follower_count": 112941,
+        "articles_count": 97,
+        "answer_count": 387,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "cc0767a011397b2adac4e1ae6ac00b83": {
+        "username": "zibuyu9",
+        "url": "https://www.zhihu.com/api/v4/people/zibuyu9",
+        "url_token": "zibuyu9",
+        "follower_count": 149583,
+        "articles_count": 18,
+        "answer_count": 751,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e2d3d69c70ee9b308c288d8ae48dde04": {
+        "username": "吴辰晔",
+        "url": "https://www.zhihu.com/api/v4/people/chenyewu",
+        "url_token": "chenyewu",
+        "follower_count": 37706,
+        "articles_count": 54,
+        "answer_count": 237,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

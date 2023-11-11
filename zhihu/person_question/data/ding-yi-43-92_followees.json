@@ -1,0 +1,152 @@
+{
+    "70e4d2e4be0d1cb0fef505527571968a": {
+        "username": "三幺哥",
+        "url": "https://www.zhihu.com/api/v4/people/roustar31",
+        "url_token": "roustar31",
+        "follower_count": 19142,
+        "articles_count": 267,
+        "answer_count": 419,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f5cc3b5e5f9de44841461ce43b3abc31": {
+        "username": "Clement菜鸟phd",
+        "url": "https://www.zhihu.com/api/v4/people/jiang-ze-jun-74",
+        "url_token": "jiang-ze-jun-74",
+        "follower_count": 9154,
+        "articles_count": 0,
+        "answer_count": 16,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f65c21d71ab6cc0be555eddeb853df4d": {
+        "username": "玉米小贩米基塔",
+        "url": "https://www.zhihu.com/api/v4/people/lei-ri-ke-fu-78",
+        "url_token": "lei-ri-ke-fu-78",
+        "follower_count": 21547,
+        "articles_count": 25,
+        "answer_count": 9,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "41e5b89123d7d9f565a4aea99beed288": {
+        "username": "抗战史记",
+        "url": "https://www.zhihu.com/api/v4/people/an-zhi-sheng-yu",
+        "url_token": "an-zhi-sheng-yu",
+        "follower_count": 11330,
+        "articles_count": 329,
+        "answer_count": 827,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9a17f77c5dd9c1c266829cf900d9e914": {
+        "username": "老亚当",
+        "url": "https://www.zhihu.com/api/v4/people/lao-ya-dang",
+        "url_token": "lao-ya-dang",
+        "follower_count": 47198,
+        "articles_count": 69,
+        "answer_count": 14000,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b5cd8b54297268eaf3dea6415ee3d1c2": {
+        "username": "xyh007",
+        "url": "https://www.zhihu.com/api/v4/people/john-chen-27",
+        "url_token": "john-chen-27",
+        "follower_count": 5812,
+        "articles_count": 167,
+        "answer_count": 188,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e3a0ce1503effff1174a4a1c6be325b0": {
+        "username": "即凉",
+        "url": "https://www.zhihu.com/api/v4/people/li-ying-35-55",
+        "url_token": "li-ying-35-55",
+        "follower_count": 61582,
+        "articles_count": 9,
+        "answer_count": 219,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "be8be1ab018796aeaf0f4216ff96204e": {
+        "username": "Mr.Y",
+        "url": "https://www.zhihu.com/api/v4/people/mr-y-49-38",
+        "url_token": "mr-y-49-38",
+        "follower_count": 1428,
+        "articles_count": 12,
+        "answer_count": 131,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "7a546a6f71201659c9a3578d155ef3f4": {
+        "username": "单非",
+        "url": "https://www.zhihu.com/api/v4/people/shan-fei-85",
+        "url_token": "shan-fei-85",
+        "follower_count": 15373,
+        "articles_count": 332,
+        "answer_count": 85,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d354cfb83000cc8382fe33543848d54c": {
+        "username": "lucat",
+        "url": "https://www.zhihu.com/api/v4/people/lucat-miao",
+        "url_token": "lucat-miao",
+        "follower_count": 16926,
+        "articles_count": 14,
+        "answer_count": 7,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "99266a1c43d0b0b36f7981f31bac8296": {
+        "username": "Sourire",
+        "url": "https://www.zhihu.com/api/v4/people/sourire627",
+        "url_token": "sourire627",
+        "follower_count": 2838,
+        "articles_count": 28,
+        "answer_count": 47,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "3389ec8423bae0a4d683001108fea2df": {
+        "username": "SansanL",
+        "url": "https://www.zhihu.com/api/v4/people/sansanl",
+        "url_token": "sansanl",
+        "follower_count": 272512,
+        "articles_count": 73,
+        "answer_count": 65,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "81a40c6bdb39eca3db23d71466777573": {
+        "username": "张程",
+        "url": "https://www.zhihu.com/api/v4/people/zhang-cheng-25-38",
+        "url_token": "zhang-cheng-25-38",
+        "follower_count": 4654,
+        "articles_count": 32,
+        "answer_count": 45,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ff55dcd0f33e8f5de77fbc3bb694f13b": {
+        "username": "栗子",
+        "url": "https://www.zhihu.com/api/v4/people/ESpeller",
+        "url_token": "ESpeller",
+        "follower_count": 280318,
+        "articles_count": 86,
+        "answer_count": 311,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "d97c88e778ed9c9c9a794290b4b25f94": {
+        "username": "雷梅苔丝",
+        "url": "https://www.zhihu.com/api/v4/people/lei-mei-tai-si-15",
+        "url_token": "lei-mei-tai-si-15",
+        "follower_count": 88171,
+        "articles_count": 0,
+        "answer_count": 97,
+        "gender": 0,
+        "user_type": "people"
+    }
+}

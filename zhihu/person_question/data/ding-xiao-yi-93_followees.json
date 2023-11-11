@@ -1,0 +1,62 @@
+{
+    "0970f947b898ecc0ec035f9126dd4e08": {
+        "username": "梅启铭(vczh)",
+        "url": "https://www.zhihu.com/api/v4/people/excited-vczh",
+        "url_token": "excited-vczh",
+        "follower_count": 841834,
+        "articles_count": 148,
+        "answer_count": 7,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "4864f3ff8a737b8850e5c55e37c31505": {
+        "username": "咖喱鸡",
+        "url": "https://www.zhihu.com/api/v4/people/ka-li-ji",
+        "url_token": "ka-li-ji",
+        "follower_count": 345829,
+        "articles_count": 41,
+        "answer_count": 309,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "a7898be6c60a9daa81dd6ad98ca842ed": {
+        "username": "DocMoya",
+        "url": "https://www.zhihu.com/api/v4/people/andiely921",
+        "url_token": "andiely921",
+        "follower_count": 59049,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "172ae9545b02fab5c1edbf148d5f145f": {
+        "username": "Ariana",
+        "url": "https://www.zhihu.com/api/v4/people/magicluna",
+        "url_token": "magicluna",
+        "follower_count": 688,
+        "articles_count": 0,
+        "answer_count": 48,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "b64be09895f97fc7544f2d2c99a1152a": {
+        "username": "高百烈",
+        "url": "https://www.zhihu.com/api/v4/people/gabrielgao",
+        "url_token": "gabrielgao",
+        "follower_count": 147214,
+        "articles_count": 21,
+        "answer_count": 534,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "7a0de46a60071716d999e583d78ae255": {
+        "username": "猫球",
+        "url": "https://www.zhihu.com/api/v4/people/LittleBallOfFur",
+        "url_token": "LittleBallOfFur",
+        "follower_count": 373464,
+        "articles_count": 11,
+        "answer_count": 681,
+        "gender": 0,
+        "user_type": "people"
+    }
+}

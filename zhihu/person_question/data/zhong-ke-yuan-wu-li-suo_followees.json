@@ -1,0 +1,152 @@
+{
+    "f8f3da0cc7e315adf0aa24fe0f17b715": {
+        "username": "文小刚",
+        "url": "https://www.zhihu.com/api/v4/people/wen-xiao-gang-62",
+        "url_token": "wen-xiao-gang-62",
+        "follower_count": 44852,
+        "articles_count": 2,
+        "answer_count": 78,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b7c5d4d3cb9964ccc0420cd260fad201": {
+        "username": "知乎市场团队",
+        "url": "https://www.zhihu.com/api/v4/people/zhihu_marketing",
+        "url_token": "zhihu_marketing",
+        "follower_count": 247326,
+        "articles_count": 107,
+        "answer_count": 8,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "eb271ac52f1730cdf0725f627c013f14": {
+        "username": "中科院之声",
+        "url": "https://www.zhihu.com/api/v4/people/zhong-ke-yuan-zhi-sheng",
+        "url_token": "zhong-ke-yuan-zhi-sheng",
+        "follower_count": 404376,
+        "articles_count": 861,
+        "answer_count": 41,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "a6756d2515bb9c23170424b57630a2aa": {
+        "username": "知乎机构号团队",
+        "url": "https://www.zhihu.com/api/v4/people/St.Pancras",
+        "url_token": "St.Pancras",
+        "follower_count": 110785,
+        "articles_count": 41,
+        "answer_count": 6,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "65088c2213cba7ec06370f89dc5fc53e": {
+        "username": "ccccccccc",
+        "url": "https://www.zhihu.com/api/v4/people/ccccccccc-23",
+        "url_token": "ccccccccc-23",
+        "follower_count": 6,
+        "articles_count": 0,
+        "answer_count": 1,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "215c8040a8228d4b6ae275dbcedbefe2": {
+        "username": "鱼刺",
+        "url": "https://www.zhihu.com/api/v4/people/shi-he-yuan-fang-de-gou-qie",
+        "url_token": "shi-he-yuan-fang-de-gou-qie",
+        "follower_count": 12692,
+        "articles_count": 15,
+        "answer_count": 87,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "09f5b257db80b64d0bce59deb7393bab": {
+        "username": "楼台津渡",
+        "url": "https://www.zhihu.com/api/v4/people/yang-fa-zhi",
+        "url_token": "yang-fa-zhi",
+        "follower_count": 381,
+        "articles_count": 0,
+        "answer_count": 3,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "337c589bea39709a44b90c2956e627fa": {
+        "username": "姜畅",
+        "url": "https://www.zhihu.com/api/v4/people/jiang-chang-9",
+        "url_token": "jiang-chang-9",
+        "follower_count": 149,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "7c72749c707eee15663c928fbb408a1e": {
+        "username": "懵包",
+        "url": "https://www.zhihu.com/api/v4/people/yue-ye-wan-feng",
+        "url_token": "yue-ye-wan-feng",
+        "follower_count": 484,
+        "articles_count": 0,
+        "answer_count": 4,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "2733af4595c741b9dd9354bfbcaf7236": {
+        "username": "Neo Cheng",
+        "url": "https://www.zhihu.com/api/v4/people/neo-cheng",
+        "url_token": "neo-cheng",
+        "follower_count": 208,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "824f4ae3707da990b18ca9a4ddac53f7": {
+        "username": "方辰",
+        "url": "https://www.zhihu.com/api/v4/people/fang-chen-41-38",
+        "url_token": "fang-chen-41-38",
+        "follower_count": 81740,
+        "articles_count": 0,
+        "answer_count": 227,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9442f011c62c6ea07418d16cf803dd64": {
+        "username": "sym cheng",
+        "url": "https://www.zhihu.com/api/v4/people/cheng-song-25",
+        "url_token": "cheng-song-25",
+        "follower_count": 64129,
+        "articles_count": 10,
+        "answer_count": 54,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "cd3b12047daabdaa67707650d6189856": {
+        "username": "Flash",
+        "url": "https://www.zhihu.com/api/v4/people/yuanjiahao",
+        "url_token": "yuanjiahao",
+        "follower_count": 1078,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "74174bd5acdb2a249bc4f1f95e9e063e": {
+        "username": "袁霖",
+        "url": "https://www.zhihu.com/api/v4/people/octiu1",
+        "url_token": "octiu1",
+        "follower_count": 9630,
+        "articles_count": 0,
+        "answer_count": 14,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "da971e1f564d733611f6a9a51930c4aa": {
+        "username": "中国科普博览",
+        "url": "https://www.zhihu.com/api/v4/people/zhong-guo-ke-pu-bo-lan",
+        "url_token": "zhong-guo-ke-pu-bo-lan",
+        "follower_count": 835891,
+        "articles_count": 141,
+        "answer_count": 448,
+        "gender": -1,
+        "user_type": "organization"
+    }
+}

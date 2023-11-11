@@ -1,0 +1,162 @@
+{
+    "b13b0a3f97549f3854ce96b2faa41a55": {
+        "username": "盐选科普",
+        "url": "https://www.zhihu.com/api/v4/people/yan-xuan-ke-pu-28",
+        "url_token": "yan-xuan-ke-pu-28",
+        "follower_count": 2700762,
+        "articles_count": 0,
+        "answer_count": 42,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "d0b6fab19f976ae85e43cb8fa3a1f940": {
+        "username": "甄寻",
+        "url": "https://www.zhihu.com/api/v4/people/zhen-xun-38",
+        "url_token": "zhen-xun-38",
+        "follower_count": 297,
+        "articles_count": 0,
+        "answer_count": 115,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "0f266fddf1315d97c652161dd58de5e1": {
+        "username": "观察者网",
+        "url": "https://www.zhihu.com/api/v4/people/guan-cha-zhe-wang-31",
+        "url_token": "guan-cha-zhe-wang-31",
+        "follower_count": 1056942,
+        "articles_count": 1445,
+        "answer_count": 1014,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "6d48e9873eea114c9bbcb56b4803fb81": {
+        "username": "新世相",
+        "url": "https://www.zhihu.com/api/v4/people/xin-shi-xiang-98",
+        "url_token": "xin-shi-xiang-98",
+        "follower_count": 175378,
+        "articles_count": 1940,
+        "answer_count": 886,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "22adc602755babbe0e486806a83967e8": {
+        "username": "睡前消息",
+        "url": "https://www.zhihu.com/api/v4/people/shui-qian-xiao-xi",
+        "url_token": "shui-qian-xiao-xi",
+        "follower_count": 175898,
+        "articles_count": 1,
+        "answer_count": 1379,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "fc039220372927a1b244ed95da3ea358": {
+        "username": "职场干货",
+        "url": "https://www.zhihu.com/api/v4/people/jinfeng5188",
+        "url_token": "jinfeng5188",
+        "follower_count": 16271,
+        "articles_count": 1322,
+        "answer_count": 8905,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "a28050ace081ac4db14c394b7759558b": {
+        "username": "罗翔说刑法",
+        "url": "https://www.zhihu.com/api/v4/people/revlx",
+        "url_token": "revlx",
+        "follower_count": 2245304,
+        "articles_count": 20,
+        "answer_count": 24,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e6ffc51f9bfd8f4d8f269e6851f3e762": {
+        "username": "休木同学",
+        "url": "https://www.zhihu.com/api/v4/people/xiu-mu-21",
+        "url_token": "xiu-mu-21",
+        "follower_count": 20008,
+        "articles_count": 108,
+        "answer_count": 1681,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ce7ba39bc114a04074deb3bee3dcdd9f": {
+        "username": "界明城",
+        "url": "https://www.zhihu.com/api/v4/people/yang-jin-song-80",
+        "url_token": "yang-jin-song-80",
+        "follower_count": 398,
+        "articles_count": 1,
+        "answer_count": 30,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ad7494373cfde1f628314546e6704b8b": {
+        "username": "搜狐新闻",
+        "url": "https://www.zhihu.com/api/v4/people/sou-hu-xin-wen-59",
+        "url_token": "sou-hu-xin-wen-59",
+        "follower_count": 406205,
+        "articles_count": 197,
+        "answer_count": 4007,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "1648ec9c1ad05fe21b9c2550b12dd3e1": {
+        "username": "技术官僚",
+        "url": "https://www.zhihu.com/api/v4/people/tmrjx",
+        "url_token": "tmrjx",
+        "follower_count": 227833,
+        "articles_count": 21,
+        "answer_count": 339,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "47efc8d96de04ee7dedfb74266cce3d1": {
+        "username": "风帽穿甲弹",
+        "url": "https://www.zhihu.com/api/v4/people/feng-mao-chuan-jia-dan",
+        "url_token": "feng-mao-chuan-jia-dan",
+        "follower_count": 31433,
+        "articles_count": 33,
+        "answer_count": 484,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c42549ec38a5678670eb46cffa9cba59": {
+        "username": "人民法院报",
+        "url": "https://www.zhihu.com/api/v4/people/ren-min-fa-yuan-bao",
+        "url_token": "ren-min-fa-yuan-bao",
+        "follower_count": 952070,
+        "articles_count": 11472,
+        "answer_count": 93,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "5c1b7873c5437382c03cdac7210fbe12": {
+        "username": "中国警方在线",
+        "url": "https://www.zhihu.com/api/v4/people/zhong-guo-jing-fang-zai-xian",
+        "url_token": "zhong-guo-jing-fang-zai-xian",
+        "follower_count": 1812538,
+        "articles_count": 474,
+        "answer_count": 203,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "59de8693e7f26198003475a928058cf9": {
+        "username": "小约翰",
+        "url": "https://www.zhihu.com/api/v4/people/lu-chen-xi-9-98",
+        "url_token": "lu-chen-xi-9-98",
+        "follower_count": 860733,
+        "articles_count": 6,
+        "answer_count": 460,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "74a764ffc4ec4911a788369874cd5c95": {
+        "username": "圆月超人",
+        "url": "https://www.zhihu.com/api/v4/people/zheng-yue-ming",
+        "url_token": "zheng-yue-ming",
+        "follower_count": 36743,
+        "articles_count": 45,
+        "answer_count": 679,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

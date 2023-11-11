@@ -1,0 +1,132 @@
+{
+    "b1dcab3878a3c1ea8748678e62f246c9": {
+        "username": "MasterPa",
+        "url": "https://www.zhihu.com/api/v4/people/masterpa",
+        "url_token": "masterpa",
+        "follower_count": 43804,
+        "articles_count": 97,
+        "answer_count": 414,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "53fa7c2fb1fcade1f2eb8e25e10e0f84": {
+        "username": "共青团中央",
+        "url": "https://www.zhihu.com/api/v4/people/gong-qing-tuan-zhong-yang-67",
+        "url_token": "gong-qing-tuan-zhong-yang-67",
+        "follower_count": 1888250,
+        "articles_count": 381,
+        "answer_count": 692,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6d443177eca4f4f098b4a4b63046b4b0": {
+        "username": "王瑞恩",
+        "url": "https://www.zhihu.com/api/v4/people/wang-rui-en",
+        "url_token": "wang-rui-en",
+        "follower_count": 1285239,
+        "articles_count": 162,
+        "answer_count": 2386,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "0d745e454559bff79a9f4fbd1caef211": {
+        "username": "烟之骑士蕾姆",
+        "url": "https://www.zhihu.com/api/v4/people/si-wang-54",
+        "url_token": "si-wang-54",
+        "follower_count": 170288,
+        "articles_count": 6,
+        "answer_count": 12941,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "81c66840465c566c7a39fe753b6377bf": {
+        "username": "山高县的收藏夹",
+        "url": "https://www.zhihu.com/api/v4/people/hrenterprise",
+        "url_token": "hrenterprise",
+        "follower_count": 38473,
+        "articles_count": 3,
+        "answer_count": 81,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "7031b1ad9752b76075297d0d689a3c88": {
+        "username": "知乎用户2aWZ84",
+        "url": "https://www.zhihu.com/api/v4/people/obsidianphoenix",
+        "url_token": "obsidianphoenix",
+        "follower_count": 112538,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "eacb69eb660cd6c8395cbbfd3ab2a91d": {
+        "username": "南方战士",
+        "url": "https://www.zhihu.com/api/v4/people/southwarrior",
+        "url_token": "southwarrior",
+        "follower_count": 304988,
+        "articles_count": 640,
+        "answer_count": 876,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "3a94944be4e99b08aa6fc834a9cb8bf0": {
+        "username": "安风你压我头发了",
+        "url": "https://www.zhihu.com/api/v4/people/BizarreAdventure",
+        "url_token": "BizarreAdventure",
+        "follower_count": 199600,
+        "articles_count": 13,
+        "answer_count": 1931,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6fce51e305ade1115ec85051e4d47fee": {
+        "username": "队长别开枪是我",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-shen-7",
+        "url_token": "zhi-shen-7",
+        "follower_count": 2783,
+        "articles_count": 11,
+        "answer_count": 602,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "d278c05c7b0349f24b448a728e067072": {
+        "username": "申鹏",
+        "url": "https://www.zhihu.com/api/v4/people/shen-peng-38",
+        "url_token": "shen-peng-38",
+        "follower_count": 1719498,
+        "articles_count": 427,
+        "answer_count": 3680,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "4e05bbf375d6237d6e56394de2b9d422": {
+        "username": "李建秋",
+        "url": "https://www.zhihu.com/api/v4/people/li-jian-qiu",
+        "url_token": "li-jian-qiu",
+        "follower_count": 625791,
+        "articles_count": 94,
+        "answer_count": 3613,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "38b262d006a33721bc095eea0719abe2": {
+        "username": "伏罗希洛夫射手",
+        "url": "https://www.zhihu.com/api/v4/people/cao-feng-ze-37",
+        "url_token": "cao-feng-ze-37",
+        "follower_count": 420656,
+        "articles_count": 14,
+        "answer_count": 2952,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "8a88eccbb3c3e498a80d7294e19348d0": {
+        "username": "宁南山",
+        "url": "https://www.zhihu.com/api/v4/people/ningnanshan",
+        "url_token": "ningnanshan",
+        "follower_count": 338270,
+        "articles_count": 250,
+        "answer_count": 34,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "734aaf91e5d1bf9fb68071bb8fee4264": {
+        "username": "在贵州",
+        "url": "https://www.zhihu.com/api/v4/people/gui-zhou-la-rou",
+        "url_token": "gui-zhou-la-rou",
+        "follower_count": 76281,
+        "articles_count": 7,
+        "answer_count": 423,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "06f3b1c891d0d504eea8af883150b497": {
+        "username": "冷哲",
+        "url": "https://www.zhihu.com/api/v4/people/leng-zhe",
+        "url_token": "leng-zhe",
+        "follower_count": 484053,
+        "articles_count": 76,
+        "answer_count": 1045,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c1da9a3151dfa3be9ccc764ce3b1bade": {
+        "username": "Creamy络",
+        "url": "https://www.zhihu.com/api/v4/people/creamyluo",
+        "url_token": "creamyluo",
+        "follower_count": 56137,
+        "articles_count": 269,
+        "answer_count": 3579,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "4561b2270a104993e2988a9ce5a1cad2": {
+        "username": "马前卒",
+        "url": "https://www.zhihu.com/api/v4/people/ma-qian-zu",
+        "url_token": "ma-qian-zu",
+        "follower_count": 501339,
+        "articles_count": 610,
+        "answer_count": 1915,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

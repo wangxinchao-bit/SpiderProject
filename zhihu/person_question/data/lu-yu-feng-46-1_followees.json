@@ -1,0 +1,202 @@
+{
+    "2475b50d22f6292550f84ea63a308c39": {
+        "username": "a2方方老师",
+        "url": "https://www.zhihu.com/api/v4/people/applysquare",
+        "url_token": "applysquare",
+        "follower_count": 46529,
+        "articles_count": 211,
+        "answer_count": 389,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "70f11a5afcae0f8f329677fc20e02084": {
+        "username": "HANDSOME",
+        "url": "https://www.zhihu.com/api/v4/people/handsome-27-31",
+        "url_token": "handsome-27-31",
+        "follower_count": 2,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "8792dc7521194f750c2f44eab0000c28": {
+        "username": "王敏捷",
+        "url": "https://www.zhihu.com/api/v4/people/wang-min-jie-88",
+        "url_token": "wang-min-jie-88",
+        "follower_count": 4239,
+        "articles_count": 21,
+        "answer_count": 1,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "551bd02d59e6d0dee25f72d739ba3b40": {
+        "username": "阿偏",
+        "url": "https://www.zhihu.com/api/v4/people/wei-jian-sheng",
+        "url_token": "wei-jian-sheng",
+        "follower_count": 59282,
+        "articles_count": 32,
+        "answer_count": 1738,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "36f69162230003d316d0b8a6d8da20ba": {
+        "username": "量子位",
+        "url": "https://www.zhihu.com/api/v4/people/liang-zi-wei-48",
+        "url_token": "liang-zi-wei-48",
+        "follower_count": 487279,
+        "articles_count": 8310,
+        "answer_count": 606,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "99e6e68f150e49d00aed4f8e1d5047cd": {
+        "username": "Kimberly VanderWeert",
+        "url": "https://www.zhihu.com/api/v4/people/kimberly-vanderweert",
+        "url_token": "kimberly-vanderweert",
+        "follower_count": 4623,
+        "articles_count": 254,
+        "answer_count": 282,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "98d958ca3c00b19cde95163e2b58e746": {
+        "username": "邱震宇",
+        "url": "https://www.zhihu.com/api/v4/people/qiu-zhen-yu-87",
+        "url_token": "qiu-zhen-yu-87",
+        "follower_count": 24089,
+        "articles_count": 61,
+        "answer_count": 37,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "06a67981ced7a2e9f07005185605685c": {
+        "username": "机器之心",
+        "url": "https://www.zhihu.com/api/v4/people/ji-qi-zhi-xin-65",
+        "url_token": "ji-qi-zhi-xin-65",
+        "follower_count": 665890,
+        "articles_count": 6251,
+        "answer_count": 89,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "02c1927a26f1fa47d3d43ec304b81015": {
+        "username": "夕小瑶",
+        "url": "https://www.zhihu.com/api/v4/people/tsxiyao",
+        "url_token": "tsxiyao",
+        "follower_count": 76235,
+        "articles_count": 125,
+        "answer_count": 96,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "cc0767a011397b2adac4e1ae6ac00b83": {
+        "username": "zibuyu9",
+        "url": "https://www.zhihu.com/api/v4/people/zibuyu9",
+        "url_token": "zibuyu9",
+        "follower_count": 149583,
+        "articles_count": 18,
+        "answer_count": 751,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b19ca4e637b539cb250328d41bb3bb5b": {
+        "username": "邱锡鹏",
+        "url": "https://www.zhihu.com/api/v4/people/xpqiu",
+        "url_token": "xpqiu",
+        "follower_count": 66246,
+        "articles_count": 12,
+        "answer_count": 39,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "13fd0fce2affd948bfd821a8f7ed10f3": {
+        "username": "李沐",
+        "url": "https://www.zhihu.com/api/v4/people/mli65",
+        "url_token": "mli65",
+        "follower_count": 307720,
+        "articles_count": 38,
+        "answer_count": 52,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c5c369f96081fdb063475e0baf8ee78a": {
+        "username": "秩法策士",
+        "url": "https://www.zhihu.com/api/v4/people/liang-jia-xi-1-28",
+        "url_token": "liang-jia-xi-1-28",
+        "follower_count": 4460,
+        "articles_count": 41,
+        "answer_count": 6,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "52c87663b1088399707297edf29fb4f8": {
+        "username": "知乎用户27kRZ3",
+        "url": "https://www.zhihu.com/api/v4/people/guan-jia-wen-97",
+        "url_token": "guan-jia-wen-97",
+        "follower_count": 224,
+        "articles_count": 0,
+        "answer_count": 1,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "09bbb0c2b32942e1b45a8f6ff48c155a": {
+        "username": "lking",
+        "url": "https://www.zhihu.com/api/v4/people/jin-kai-di-41",
+        "url_token": "jin-kai-di-41",
+        "follower_count": 5,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "87c9be8e811dfa67225b1487b902d362": {
+        "username": "水开了",
+        "url": "https://www.zhihu.com/api/v4/people/ran-zhe-jiang-10",
+        "url_token": "ran-zhe-jiang-10",
+        "follower_count": 1,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "aa768994a86a344b4364ec1e224e89fb": {
+        "username": "李大脑袋",
+        "url": "https://www.zhihu.com/api/v4/people/li-meng-meng-97-57",
+        "url_token": "li-meng-meng-97-57",
+        "follower_count": 372,
+        "articles_count": 0,
+        "answer_count": 47,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "eba4a521466a2d4b49b9b7c01119eca0": {
+        "username": "deadash",
+        "url": "https://www.zhihu.com/api/v4/people/deadash",
+        "url_token": "deadash",
+        "follower_count": 62,
+        "articles_count": 1,
+        "answer_count": 24,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "f807fb1a85bda1c02c2951b319c88bad": {
+        "username": "rrholdme",
+        "url": "https://www.zhihu.com/api/v4/people/ruan-dou-dou-76",
+        "url_token": "ruan-dou-dou-76",
+        "follower_count": 16,
+        "articles_count": 0,
+        "answer_count": 2,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "7d6687aa54c72a13b2b6d544f8f0189f": {
+        "username": "papalqi",
+        "url": "https://www.zhihu.com/api/v4/people/papalqi",
+        "url_token": "papalqi",
+        "follower_count": 20599,
+        "articles_count": 18,
+        "answer_count": 52,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

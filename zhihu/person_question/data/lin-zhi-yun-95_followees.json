@@ -1,0 +1,92 @@
+{
+    "cbc92b8dc14c73405bfd7ba25c9a8d33": {
+        "username": "鸟看世界",
+        "url": "https://www.zhihu.com/api/v4/people/nksjwp",
+        "url_token": "nksjwp",
+        "follower_count": 30197,
+        "articles_count": 133,
+        "answer_count": 320,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b97fac2b397a2554980d109a6b4923d3": {
+        "username": "周同学文文",
+        "url": "https://www.zhihu.com/api/v4/people/zhou-t-x-w-w",
+        "url_token": "zhou-t-x-w-w",
+        "follower_count": 236,
+        "articles_count": 75,
+        "answer_count": 430,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "011f3f537704758ee2477a50d9bb3a88": {
+        "username": "大司马大将军",
+        "url": "https://www.zhihu.com/api/v4/people/zhao-yang-14-5",
+        "url_token": "zhao-yang-14-5",
+        "follower_count": 31311,
+        "articles_count": 38,
+        "answer_count": 4968,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "42c388d6f7ea3965855621e8ab39e9bb": {
+        "username": "简e",
+        "url": "https://www.zhihu.com/api/v4/people/jian-e-71",
+        "url_token": "jian-e-71",
+        "follower_count": 3677,
+        "articles_count": 74,
+        "answer_count": 8938,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "9710dc7ca712d196d99bce5e49d0900b": {
+        "username": "高考数学呆哥",
+        "url": "https://www.zhihu.com/api/v4/people/daigemath",
+        "url_token": "daigemath",
+        "follower_count": 468871,
+        "articles_count": 863,
+        "answer_count": 436,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f1578de3483a94619091df33e16a4ebb": {
+        "username": "公考小子",
+        "url": "https://www.zhihu.com/api/v4/people/di-tu-shi-lu",
+        "url_token": "di-tu-shi-lu",
+        "follower_count": 1601,
+        "articles_count": 471,
+        "answer_count": 1,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "3b25119e6892f63ee4f861974494e93d": {
+        "username": "知乎付费咨询",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-hu-xiao-mi-shu",
+        "url_token": "zhi-hu-xiao-mi-shu",
+        "follower_count": 44402,
+        "articles_count": 92,
+        "answer_count": 85,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "29a386cc4b62dd3a95af790ba2fcf1cb": {
+        "username": "嘉慧Lincoln",
+        "url": "https://www.zhihu.com/api/v4/people/Lincolnhome",
+        "url_token": "Lincolnhome",
+        "follower_count": 175622,
+        "articles_count": 59,
+        "answer_count": 2037,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "6d15142cd00737b26eae022b24848fb7": {
+        "username": "木槿言",
+        "url": "https://www.zhihu.com/api/v4/people/mu-jin-yan-36",
+        "url_token": "mu-jin-yan-36",
+        "follower_count": 60,
+        "articles_count": 0,
+        "answer_count": 2,
+        "gender": -1,
+        "user_type": "people"
+    }
+}

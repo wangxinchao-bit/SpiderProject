@@ -1,0 +1,42 @@
+{
+    "fd4f53b430b1d677e18053e45507b9e8": {
+        "username": "叶泊枫",
+        "url": "https://www.zhihu.com/api/v4/people/Yefeng7",
+        "url_token": "Yefeng7",
+        "follower_count": 563652,
+        "articles_count": 37,
+        "answer_count": 352,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b2a9ba4684fdb6385787186c0d4be471": {
+        "username": "创作者小助手",
+        "url": "https://www.zhihu.com/api/v4/people/chuang-zuo-zhe-xiao-zhu-shou",
+        "url_token": "chuang-zuo-zhe-xiao-zhu-shou",
+        "follower_count": 302242,
+        "articles_count": 108,
+        "answer_count": 16,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "0be817e07eb15e80384d484b84d6c1ec": {
+        "username": "话题小助手",
+        "url": "https://www.zhihu.com/api/v4/people/hua-ti-xiao-zhu-shou",
+        "url_token": "hua-ti-xiao-zhu-shou",
+        "follower_count": 28102,
+        "articles_count": 25,
+        "answer_count": 1,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "3d198a56310c02c4a83efb9f4a4c027e": {
+        "username": "知乎小管家",
+        "url": "https://www.zhihu.com/api/v4/people/zhihuadmin",
+        "url_token": "zhihuadmin",
+        "follower_count": 1100445,
+        "articles_count": 568,
+        "answer_count": 84,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

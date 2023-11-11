@@ -1,0 +1,22 @@
+{
+    "d85e931ae5438169d3dfe526eeb1440a": {
+        "username": "Spinoza",
+        "url": "https://www.zhihu.com/api/v4/people/dong-gong-77",
+        "url_token": "dong-gong-77",
+        "follower_count": 607,
+        "articles_count": 21,
+        "answer_count": 766,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c30e6006880eff2fde2c2f3e31d6ccfe": {
+        "username": "laputauh",
+        "url": "https://www.zhihu.com/api/v4/people/lawrenauh",
+        "url_token": "lawrenauh",
+        "follower_count": 239,
+        "articles_count": 0,
+        "answer_count": 41,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

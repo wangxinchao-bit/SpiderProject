@@ -1,0 +1,32 @@
+{
+    "f17de3884c61fef9444cf310f1502f26": {
+        "username": "三思后行",
+        "url": "https://www.zhihu.com/api/v4/people/yi-li-chen-ai-79-28",
+        "url_token": "yi-li-chen-ai-79-28",
+        "follower_count": 429,
+        "articles_count": 0,
+        "answer_count": 328,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "44afe7c85a25ce6b313a6506c835a9b8": {
+        "username": "从头再来",
+        "url": "https://www.zhihu.com/api/v4/people/yao-jie-shui",
+        "url_token": "yao-jie-shui",
+        "follower_count": 568,
+        "articles_count": 0,
+        "answer_count": 178,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b781ba1ea77dc4cbca5b63f7904b73b1": {
+        "username": "向善",
+        "url": "https://www.zhihu.com/api/v4/people/qian-kou-dai",
+        "url_token": "qian-kou-dai",
+        "follower_count": 17,
+        "articles_count": 0,
+        "answer_count": 11,
+        "gender": -1,
+        "user_type": "people"
+    }
+}

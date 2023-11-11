@@ -1,0 +1,102 @@
+{
+    "d366cd9b6ece8d5140532dd5a91fea6d": {
+        "username": "Jennyyy",
+        "url": "https://www.zhihu.com/api/v4/people/thejennyyy",
+        "url_token": "thejennyyy",
+        "follower_count": 724201,
+        "articles_count": 61,
+        "answer_count": 158,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "6fec03e7958bc1b00fad1284e150748a": {
+        "username": "黛西巫巫",
+        "url": "https://www.zhihu.com/api/v4/people/dxww",
+        "url_token": "dxww",
+        "follower_count": 1487610,
+        "articles_count": 515,
+        "answer_count": 326,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "b569149131b374bdf64dbbcbea80c280": {
+        "username": "高冷冷",
+        "url": "https://www.zhihu.com/api/v4/people/gao-leng-leng-61",
+        "url_token": "gao-leng-leng-61",
+        "follower_count": 782784,
+        "articles_count": 168,
+        "answer_count": 148,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "2ec7b4b7779fe06a16e174901ab4d8eb": {
+        "username": "精读君通识词典",
+        "url": "https://www.zhihu.com/api/v4/people/jing-du-jun-8",
+        "url_token": "jing-du-jun-8",
+        "follower_count": 593999,
+        "articles_count": 40,
+        "answer_count": 76,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "dee99bcf9da2172a7de2ce90a5f64542": {
+        "username": "壹心理",
+        "url": "https://www.zhihu.com/api/v4/people/yi-xin-li-1",
+        "url_token": "yi-xin-li-1",
+        "follower_count": 738855,
+        "articles_count": 1128,
+        "answer_count": 1281,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "14f1982ee9fd4e9579b918b4676b8b44": {
+        "username": "KnowYourself",
+        "url": "https://www.zhihu.com/api/v4/people/knowyourself-1",
+        "url_token": "knowyourself-1",
+        "follower_count": 2315882,
+        "articles_count": 655,
+        "answer_count": 1956,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "20dee568f96ea296bb938b1b377b9453": {
+        "username": "沈忘",
+        "url": "https://www.zhihu.com/api/v4/people/jing-jing-xiao-mi-zhou",
+        "url_token": "jing-jing-xiao-mi-zhou",
+        "follower_count": 56180,
+        "articles_count": 0,
+        "answer_count": 0,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "abecd01f74541c26d93c9ab553affba1": {
+        "username": "寂阳",
+        "url": "https://www.zhihu.com/api/v4/people/naping",
+        "url_token": "naping",
+        "follower_count": 199948,
+        "articles_count": 119,
+        "answer_count": 953,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "19fbc502b1df8339714c8e42aa251e14": {
+        "username": "KY主创",
+        "url": "https://www.zhihu.com/api/v4/people/knowurself",
+        "url_token": "knowurself",
+        "follower_count": 259414,
+        "articles_count": 149,
+        "answer_count": 54,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "63a9e2cb7cb714f436a564647c8b23de": {
+        "username": "李越",
+        "url": "https://www.zhihu.com/api/v4/people/liyue233",
+        "url_token": "liyue233",
+        "follower_count": 249205,
+        "articles_count": 104,
+        "answer_count": 828,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

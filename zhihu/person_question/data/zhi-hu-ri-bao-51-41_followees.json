@@ -1,0 +1,192 @@
+{
+    "ffbe1e25d78aa1aa39b6baf6a6a5c781": {
+        "username": "汪惟",
+        "url": "https://www.zhihu.com/api/v4/people/ccat",
+        "url_token": "ccat",
+        "follower_count": 846933,
+        "articles_count": 23,
+        "answer_count": 451,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "329263d04c6a3a9b731c005cbe11dc1c": {
+        "username": "阿郎",
+        "url": "https://www.zhihu.com/api/v4/people/a-lang-88-77",
+        "url_token": "a-lang-88-77",
+        "follower_count": 340698,
+        "articles_count": 30,
+        "answer_count": 352,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "946100dd40f5cf54c41bdd59ad4f0d87": {
+        "username": "张小北",
+        "url": "https://www.zhihu.com/api/v4/people/zhang-xiao-bei",
+        "url_token": "zhang-xiao-bei",
+        "follower_count": 1161759,
+        "articles_count": 120,
+        "answer_count": 1878,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "807cbdad0c3629cc02c6c6e84ee98fba": {
+        "username": "张译",
+        "url": "https://www.zhihu.com/api/v4/people/guo-zi-501",
+        "url_token": "guo-zi-501",
+        "follower_count": 1074764,
+        "articles_count": 6,
+        "answer_count": 26,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6f104ff8f6e34037c63f0f7b7b07d648": {
+        "username": "章漱凡",
+        "url": "https://www.zhihu.com/api/v4/people/zhang-shu-fan-65",
+        "url_token": "zhang-shu-fan-65",
+        "follower_count": 238198,
+        "articles_count": 146,
+        "answer_count": 152,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "78dd7b7be85989df73b8b0ee1857e537": {
+        "username": "magasa",
+        "url": "https://www.zhihu.com/api/v4/people/magasa",
+        "url_token": "magasa",
+        "follower_count": 820114,
+        "articles_count": 116,
+        "answer_count": 821,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f7c8c7e28632d942d366b7b4ea134a5e": {
+        "username": "电子骑士",
+        "url": "https://www.zhihu.com/api/v4/people/cyberknight",
+        "url_token": "cyberknight",
+        "follower_count": 413761,
+        "articles_count": 48,
+        "answer_count": 563,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "e86feeea48e24aeeb1006d46223716af": {
+        "username": "木易movie",
+        "url": "https://www.zhihu.com/api/v4/people/mu-yi-happy",
+        "url_token": "mu-yi-happy",
+        "follower_count": 339996,
+        "articles_count": 312,
+        "answer_count": 464,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d3ac6c04c1ab230ad4cdaf82c5767327": {
+        "username": "光与火花",
+        "url": "https://www.zhihu.com/api/v4/people/wayangmovie",
+        "url_token": "wayangmovie",
+        "follower_count": 160622,
+        "articles_count": 6,
+        "answer_count": 459,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ae1b2859319964e5360a53a24ba8acc3": {
+        "username": "圣狗子",
+        "url": "https://www.zhihu.com/api/v4/people/shenggouzi",
+        "url_token": "shenggouzi",
+        "follower_count": 214597,
+        "articles_count": 57,
+        "answer_count": 196,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "ca7df4666696f38244c866968bebd6c4": {
+        "username": "福鹿喬",
+        "url": "https://www.zhihu.com/api/v4/people/qiaomuxin",
+        "url_token": "qiaomuxin",
+        "follower_count": 204079,
+        "articles_count": 0,
+        "answer_count": 30,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "028c1a112074b9faefbcfa3d8cbbf6b3": {
+        "username": "王义之",
+        "url": "https://www.zhihu.com/api/v4/people/wangyizhi",
+        "url_token": "wangyizhi",
+        "follower_count": 470192,
+        "articles_count": 26,
+        "answer_count": 68,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "26aa64640b741f369de1bdb9f2df6fc5": {
+        "username": "知乎话题",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-shi-ku-21-42",
+        "url_token": "zhi-shi-ku-21-42",
+        "follower_count": 123876,
+        "articles_count": 65,
+        "answer_count": 6,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "818347236c00169b8904697c8169854b": {
+        "username": "知乎科技",
+        "url": "https://www.zhihu.com/api/v4/people/zhi-ke-ji-13",
+        "url_token": "zhi-ke-ji-13",
+        "follower_count": 6330340,
+        "articles_count": 163,
+        "answer_count": 37,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "83c229e5e026d4f8b685aa2750902459": {
+        "username": "刘看山",
+        "url": "https://www.zhihu.com/api/v4/people/liu-kan-shan-78",
+        "url_token": "liu-kan-shan-78",
+        "follower_count": 12454175,
+        "articles_count": 77,
+        "answer_count": 145,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "3d198a56310c02c4a83efb9f4a4c027e": {
+        "username": "知乎小管家",
+        "url": "https://www.zhihu.com/api/v4/people/zhihuadmin",
+        "url_token": "zhihuadmin",
+        "follower_count": 1100443,
+        "articles_count": 568,
+        "answer_count": 84,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b6f80220378c8b0b78175dd6a0b9c680": {
+        "username": "黄继新",
+        "url": "https://www.zhihu.com/api/v4/people/jixin",
+        "url_token": "jixin",
+        "follower_count": 1005915,
+        "articles_count": 95,
+        "answer_count": 781,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "6733f12c60e7e98ea7491f20de46f79e": {
+        "username": "周源",
+        "url": "https://www.zhihu.com/api/v4/people/zhouyuan",
+        "url_token": "zhouyuan",
+        "follower_count": 1035122,
+        "articles_count": 13,
+        "answer_count": 364,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "a6756d2515bb9c23170424b57630a2aa": {
+        "username": "知乎机构号团队",
+        "url": "https://www.zhihu.com/api/v4/people/St.Pancras",
+        "url_token": "St.Pancras",
+        "follower_count": 110785,
+        "articles_count": 41,
+        "answer_count": 6,
+        "gender": 0,
+        "user_type": "people"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "5a034ece14d016b7ee471695f3fad478": {
+        "username": "陈云",
+        "url": "https://www.zhihu.com/api/v4/people/cloudfall",
+        "url_token": "cloudfall",
+        "follower_count": 14206,
+        "articles_count": 9,
+        "answer_count": 13,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "814f3e4d598f9b0d68a2809831e3bf4e": {
+        "username": "程路",
+        "url": "https://www.zhihu.com/api/v4/people/chenglu",
+        "url_token": "chenglu",
+        "follower_count": 14080,
+        "articles_count": 186,
+        "answer_count": 5,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c32ad3f421f57eaa80782e51ec6a5bde": {
+        "username": "廖雪峰",
+        "url": "https://www.zhihu.com/api/v4/people/liaoxuefeng",
+        "url_token": "liaoxuefeng",
+        "follower_count": 189026,
+        "articles_count": 57,
+        "answer_count": 258,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

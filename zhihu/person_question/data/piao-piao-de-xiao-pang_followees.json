@@ -1,0 +1,192 @@
+{
+    "3aacd95f3c680a51c282d91fb796b9ac": {
+        "username": "韩冬",
+        "url": "https://www.zhihu.com/api/v4/people/handong1986",
+        "url_token": "handong1986",
+        "follower_count": 203475,
+        "articles_count": 24,
+        "answer_count": 702,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "7e6234728e34a0df42fc5fcf874a93b5": {
+        "username": "徐腾飞",
+        "url": "https://www.zhihu.com/api/v4/people/xu-teng-fei-13",
+        "url_token": "xu-teng-fei-13",
+        "follower_count": 160460,
+        "articles_count": 61,
+        "answer_count": 716,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f86e593a394199398cb332f0ba04f31b": {
+        "username": "青格乐",
+        "url": "https://www.zhihu.com/api/v4/people/sichagao",
+        "url_token": "sichagao",
+        "follower_count": 194551,
+        "articles_count": 34,
+        "answer_count": 186,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "789a006980ffe4e7d86594fd2c21c927": {
+        "username": "贱贱",
+        "url": "https://www.zhihu.com/api/v4/people/splitter",
+        "url_token": "splitter",
+        "follower_count": 526127,
+        "articles_count": 61,
+        "answer_count": 209,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "fc82d2da5592bcb2fd8d4ebe1ab9ef59": {
+        "username": "苏德中",
+        "url": "https://www.zhihu.com/api/v4/people/su-de-zhong-84",
+        "url_token": "su-de-zhong-84",
+        "follower_count": 189084,
+        "articles_count": 0,
+        "answer_count": 44,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "4952252c6cee7ec5fb6e145456487621": {
+        "username": "黄辛",
+        "url": "https://www.zhihu.com/api/v4/people/huang-xin-20-97",
+        "url_token": "huang-xin-20-97",
+        "follower_count": 67040,
+        "articles_count": 69,
+        "answer_count": 403,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "50e51736e7a24a73c5b1c7b593336339": {
+        "username": "孤独凤凰战士",
+        "url": "https://www.zhihu.com/api/v4/people/bibaPCS-jeff",
+        "url_token": "bibaPCS-jeff",
+        "follower_count": 197139,
+        "articles_count": 61,
+        "answer_count": 137,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "b4854b0ef6dcd22ce978860a19066e73": {
+        "username": "丁香医生",
+        "url": "https://www.zhihu.com/api/v4/people/ding-xiang-yi-sheng",
+        "url_token": "ding-xiang-yi-sheng",
+        "follower_count": 3379843,
+        "articles_count": 299,
+        "answer_count": 684,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "61643b71597d9004f007a22f254d0b35": {
+        "username": "Fazioli",
+        "url": "https://www.zhihu.com/api/v4/people/fazioli",
+        "url_token": "fazioli",
+        "follower_count": 247392,
+        "articles_count": 64,
+        "answer_count": 1292,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "f4749d288d213e19c40cf4cb6e401cbf": {
+        "username": "脑洞故事板",
+        "url": "https://www.zhihu.com/api/v4/people/nao-dong-gu-shi-ban",
+        "url_token": "nao-dong-gu-shi-ban",
+        "follower_count": 119485,
+        "articles_count": 376,
+        "answer_count": 436,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "111f3d5989881f47f3ef48368d4e6206": {
+        "username": "月姬魔夜",
+        "url": "https://www.zhihu.com/api/v4/people/darkmaya",
+        "url_token": "darkmaya",
+        "follower_count": 163953,
+        "articles_count": 142,
+        "answer_count": 924,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "14c43fd66aa5f18ca9b20c7e384a176a": {
+        "username": "Sgt Pepper",
+        "url": "https://www.zhihu.com/api/v4/people/sgt-pepper",
+        "url_token": "sgt-pepper",
+        "follower_count": 229796,
+        "articles_count": 21,
+        "answer_count": 107,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "4458d314daf6d7d526f1709d151e9dbe": {
+        "username": "人民文学出版社",
+        "url": "https://www.zhihu.com/api/v4/people/ren-min-wen-xue-chu-ban-she",
+        "url_token": "ren-min-wen-xue-chu-ban-she",
+        "follower_count": 434775,
+        "articles_count": 182,
+        "answer_count": 464,
+        "gender": -1,
+        "user_type": "organization"
+    },
+    "c14b2ebf8b0674f90b8e15dcad7fe872": {
+        "username": "一个男人在流浪",
+        "url": "https://www.zhihu.com/api/v4/people/yaketisi",
+        "url_token": "yaketisi",
+        "follower_count": 396044,
+        "articles_count": 79,
+        "answer_count": 436,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "7e8145bcd1505c5b44b8ec54b316c2ed": {
+        "username": "咕叽阿拉灯神丁",
+        "url": "https://www.zhihu.com/api/v4/people/song-xing-xing-de-gu-niang",
+        "url_token": "song-xing-xing-de-gu-niang",
+        "follower_count": 530,
+        "articles_count": 1,
+        "answer_count": 0,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "5cc481d854c992a724a14969a4be6f5f": {
+        "username": "秋原",
+        "url": "https://www.zhihu.com/api/v4/people/qiu-yuan-89-17",
+        "url_token": "qiu-yuan-89-17",
+        "follower_count": 304697,
+        "articles_count": 15,
+        "answer_count": 846,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "29d476a5746f5dd5ae8a296354e817de": {
+        "username": "车小胖",
+        "url": "https://www.zhihu.com/api/v4/people/chexiaopang",
+        "url_token": "chexiaopang",
+        "follower_count": 222221,
+        "articles_count": 52,
+        "answer_count": 715,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "778d7a4b371dd07461bf5193fd9d7bf6": {
+        "username": "Tony Soup",
+        "url": "https://www.zhihu.com/api/v4/people/close-tony",
+        "url_token": "close-tony",
+        "follower_count": 51812,
+        "articles_count": 6,
+        "answer_count": 326,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "fb1339246968bdebd53e07885ac47125": {
+        "username": "动机在杭州",
+        "url": "https://www.zhihu.com/api/v4/people/dong-ji-zai-hang-zhou",
+        "url_token": "dong-ji-zai-hang-zhou",
+        "follower_count": 1074914,
+        "articles_count": 199,
+        "answer_count": 301,
+        "gender": 1,
+        "user_type": "people"
+    }
+}

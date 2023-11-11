@@ -1,0 +1,102 @@
+{
+    "c991ed1820912570fbc6afcaeb0e22e8": {
+        "username": "胡说基金",
+        "url": "https://www.zhihu.com/api/v4/people/hu-shuo-35-42-92",
+        "url_token": "hu-shuo-35-42-92",
+        "follower_count": 1158,
+        "articles_count": 16,
+        "answer_count": 37,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "2db15e723113e9987b6e54d2d28ff246": {
+        "username": "檀信介",
+        "url": "https://www.zhihu.com/api/v4/people/tan-zheng-ying",
+        "url_token": "tan-zheng-ying",
+        "follower_count": 105202,
+        "articles_count": 14,
+        "answer_count": 264,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "c6259b3081d8a8d6231341fa7b13e64f": {
+        "username": "萌萌的猪猪侠",
+        "url": "https://www.zhihu.com/api/v4/people/meng-meng-de-zhu-zhu-tou",
+        "url_token": "meng-meng-de-zhu-zhu-tou",
+        "follower_count": 53535,
+        "articles_count": 539,
+        "answer_count": 417,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "0903e0e3a92561fa6abdf601f32710ef": {
+        "username": "里脊",
+        "url": "https://www.zhihu.com/api/v4/people/wo-ming-zi-wu-ge-zi",
+        "url_token": "wo-ming-zi-wu-ge-zi",
+        "follower_count": 19223,
+        "articles_count": 82,
+        "answer_count": 20,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "1f3e4f308433c2f26d95a37473cb76ae": {
+        "username": "Way Tony",
+        "url": "https://www.zhihu.com/api/v4/people/way-tony",
+        "url_token": "way-tony",
+        "follower_count": 1032,
+        "articles_count": 1,
+        "answer_count": 459,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "d5691058faff1c38b8d04149e99160a1": {
+        "username": "窗外便是世界",
+        "url": "https://www.zhihu.com/api/v4/people/chuang-wai-bian-shi-shi-jie",
+        "url_token": "chuang-wai-bian-shi-shi-jie",
+        "follower_count": 907,
+        "articles_count": 0,
+        "answer_count": 45,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "bcb6ffc92d937d1ac26a0c3d09cb067b": {
+        "username": "Bint Shanghai",
+        "url": "https://www.zhihu.com/api/v4/people/bint-shanghai",
+        "url_token": "bint-shanghai",
+        "follower_count": 4407,
+        "articles_count": 7,
+        "answer_count": 183,
+        "gender": 0,
+        "user_type": "people"
+    },
+    "24eafe3ee8d0e243be9c5a06ef745b91": {
+        "username": "蛋炒饭炒蛋",
+        "url": "https://www.zhihu.com/api/v4/people/liu-an-ge-61",
+        "url_token": "liu-an-ge-61",
+        "follower_count": 8174,
+        "articles_count": 5,
+        "answer_count": 242,
+        "gender": 1,
+        "user_type": "people"
+    },
+    "15f163d58596e72c82a386c11c386ba0": {
+        "username": "赵枫",
+        "url": "https://www.zhihu.com/api/v4/people/zhao-feng-85-69",
+        "url_token": "zhao-feng-85-69",
+        "follower_count": 7,
+        "articles_count": 0,
+        "answer_count": 29,
+        "gender": -1,
+        "user_type": "people"
+    },
+    "93a902c68b6687c2e56b2924b63cc5d9": {
+        "username": "唯唯诺诺的梦",
+        "url": "https://www.zhihu.com/api/v4/people/huang-ji-liu-63",
+        "url_token": "huang-ji-liu-63",
+        "follower_count": 48720,
+        "articles_count": 2,
+        "answer_count": 506,
+        "gender": 0,
+        "user_type": "people"
+    }
+}
