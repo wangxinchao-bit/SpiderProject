@@ -69,7 +69,6 @@ class  Consumer(threading.Thread):
                 except:
                     pass
 
-
 class paraseDataHtml(threading.Thread):
 
     def run(self):
